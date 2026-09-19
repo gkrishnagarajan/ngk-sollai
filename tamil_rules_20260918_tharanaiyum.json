@@ -1,0 +1,300 @@
+{
+  "rules": [
+    {
+      "wrong": "மனுதாரணை",
+      "correct": "மனுதாரரரை",
+      "category": "accusative_retroflex_intrusion",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "மனுதாரனை",
+      "correct": "மனுதாரரரை",
+      "category": "accusative_retroflex_intrusion",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "மனுதாரரை",
+      "correct": "மனுதாரரரை",
+      "category": "accusative_retroflex_intrusion",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "மனுதாரணையும்",
+      "correct": "மனுதாரரரையும்",
+      "category": "accusative_retroflex_intrusion",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "மனுதாரனையும்",
+      "correct": "மனுதாரரரையும்",
+      "category": "accusative_retroflex_intrusion",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "மனுதாரைரையும்",
+      "correct": "மனுதாரரரையும்",
+      "category": "accusative_retroflex_intrusion",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "எதிர்மனுதாரணை",
+      "correct": "எதிர்மனுதாரரரை",
+      "category": "accusative_retroflex_intrusion",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "எதிர்மனுதாரனை",
+      "correct": "எதிர்மனுதாரரரை",
+      "category": "accusative_retroflex_intrusion",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "எதிர்மனுதாரரை",
+      "correct": "எதிர்மனுதாரரரை",
+      "category": "accusative_retroflex_intrusion",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "எதிர்மனுதாரணையும்",
+      "correct": "எதிர்மனுதாரரரையும்",
+      "category": "accusative_retroflex_intrusion",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "எதிர்மனுதாரனையும்",
+      "correct": "எதிர்மனுதாரரரையும்",
+      "category": "accusative_retroflex_intrusion",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "எதிர்மனுதாரைரையும்",
+      "correct": "எதிர்மனுதாரரரையும்",
+      "category": "accusative_retroflex_intrusion",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "மேல்முறையீட்டாளணை",
+      "correct": "மேல்முறையீட்டாளரை",
+      "category": "accusative_retroflex_intrusion",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "மேல்முறையீட்டாளனை",
+      "correct": "மேல்முறையீட்டாளரை",
+      "category": "accusative_retroflex_intrusion",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "மேல்முறையீட்டாளணையும்",
+      "correct": "மேல்முறையீட்டாளரையும்",
+      "category": "accusative_retroflex_intrusion",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "மேல்முறையீட்டாளனையும்",
+      "correct": "மேல்முறையீட்டாளரையும்",
+      "category": "accusative_retroflex_intrusion",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "பதிலீட்டாளணை",
+      "correct": "பதிலீட்டாளரை",
+      "category": "accusative_retroflex_intrusion",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "பதிலீட்டாளனை",
+      "correct": "பதிலீட்டாளரை",
+      "category": "accusative_retroflex_intrusion",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "பதிலீட்டாளணையும்",
+      "correct": "பதிலீட்டாளரையும்",
+      "category": "accusative_retroflex_intrusion",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "பதிலீட்டாளனையும்",
+      "correct": "பதிலீட்டாளரையும்",
+      "category": "accusative_retroflex_intrusion",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "புகார்தாரணை",
+      "correct": "புகார்தாரரரை",
+      "category": "accusative_retroflex_intrusion",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "புகார்தாரனை",
+      "correct": "புகார்தாரரரை",
+      "category": "accusative_retroflex_intrusion",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "புகார்தாரரை",
+      "correct": "புகார்தாரரரை",
+      "category": "accusative_retroflex_intrusion",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "புகார்தாரணையும்",
+      "correct": "புகார்தாரரரையும்",
+      "category": "accusative_retroflex_intrusion",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "புகார்தாரனையும்",
+      "correct": "புகார்தாரரரையும்",
+      "category": "accusative_retroflex_intrusion",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "வாதிணை",
+      "correct": "வாதியை",
+      "category": "accusative_retroflex_intrusion",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "வாதினை",
+      "correct": "வாதியை",
+      "category": "accusative_retroflex_intrusion",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "வாதிணையும்",
+      "correct": "வாதியையும்",
+      "category": "accusative_retroflex_intrusion",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "வாதினையும்",
+      "correct": "வாதியையும்",
+      "category": "accusative_retroflex_intrusion",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "பிரதிவாதிணை",
+      "correct": "பிரதிவாதியை",
+      "category": "accusative_retroflex_intrusion",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "பிரதிவாதினை",
+      "correct": "பிரதிவாதியை",
+      "category": "accusative_retroflex_intrusion",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "பிரதிவாதிணையும்",
+      "correct": "பிரதிவாதியையும்",
+      "category": "accusative_retroflex_intrusion",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "பிரதிவாதினையும்",
+      "correct": "பிரதிவாதியையும்",
+      "category": "accusative_retroflex_intrusion",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "குற்றவாளிணை",
+      "correct": "குற்றவாளியை",
+      "category": "accusative_retroflex_intrusion",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "குற்றவாளினை",
+      "correct": "குற்றவாளியை",
+      "category": "accusative_retroflex_intrusion",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "குற்றவாளிணையும்",
+      "correct": "குற்றவாளியையும்",
+      "category": "accusative_retroflex_intrusion",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "குற்றவாளினையும்",
+      "correct": "குற்றவாளியையும்",
+      "category": "accusative_retroflex_intrusion",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    }
+  ]
+}

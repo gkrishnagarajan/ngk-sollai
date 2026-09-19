@@ -1,0 +1,41 @@
+{
+  "family": "govid",
+  "lane": "both",
+  "detectors": [
+    {
+      "id": "AADHAAR",
+      "method": "regex",
+      "priority": 10,
+      "confidence": 0.95,
+      "pattern": "\\b\\d{4}\\s?\\d{4}\\s?\\d{4}\\b"
+    },
+    {
+      "id": "PAN",
+      "method": "regex",
+      "priority": 10,
+      "confidence": 0.98,
+      "pattern": "\\b[A-Z]{5}\\d{4}[A-Z]\\b"
+    },
+    {
+      "id": "VOTERID",
+      "method": "regex",
+      "priority": 12,
+      "confidence": 0.9,
+      "pattern": "\\b[A-Z]{3}\\d{7}\\b"
+    },
+    {
+      "id": "DL",
+      "method": "regex",
+      "priority": 12,
+      "confidence": 0.85,
+      "pattern": "\\b[A-Z]{2}[-\\s]?\\d{2}[-\\s]?\\d{4}[-\\s]?\\d{7}\\b"
+    },
+    {
+      "id": "PASSPORT",
+      "method": "regex",
+      "priority": 14,
+      "confidence": 0.8,
+      "pattern": "\\b[A-PR-WYa-pr-wy]\\d{7}\\b"
+    }
+  ]
+}

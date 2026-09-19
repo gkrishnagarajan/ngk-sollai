@@ -1,0 +1,724 @@
+{
+  "rules": [
+    {
+      "wrong": "விசாரிக்க கூடிய",
+      "correct": "விசாரிக்கக்கூடிய",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "விசாரிக்ககூடிய",
+      "correct": "விசாரிக்கக்கூடிய",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.93,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "விசாரிக்க கூடாத",
+      "correct": "விசாரிக்கக்கூடாத",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "விசாரிக்ககூடாத",
+      "correct": "விசாரிக்கக்கூடாத",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.93,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "விசாரிக்க கூடும்",
+      "correct": "விசாரிக்கக்கூடும்",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "விசாரிக்ககூடும்",
+      "correct": "விசாரிக்கக்கூடும்",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.93,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "தண்டிக்க கூடிய",
+      "correct": "தண்டிக்கக்கூடிய",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "தண்டிக்ககூடிய",
+      "correct": "தண்டிக்கக்கூடிய",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.93,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "தண்டிக்க கூடாத",
+      "correct": "தண்டிக்கக்கூடாத",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "தண்டிக்ககூடாத",
+      "correct": "தண்டிக்கக்கூடாத",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.93,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "தண்டிக்க கூடும்",
+      "correct": "தண்டிக்கக்கூடும்",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "தண்டிக்ககூடும்",
+      "correct": "தண்டிக்கக்கூடும்",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.93,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "நீக்க கூடிய",
+      "correct": "நீக்கக்கூடிய",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "நீக்ககூடிய",
+      "correct": "நீக்கக்கூடிய",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.93,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "நீக்க கூடாத",
+      "correct": "நீக்கக்கூடாத",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "நீக்ககூடாத",
+      "correct": "நீக்கக்கூடாத",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.93,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "நீக்க கூடும்",
+      "correct": "நீக்கக்கூடும்",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "நீக்ககூடும்",
+      "correct": "நீக்கக்கூடும்",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.93,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "ஏற்க கூடிய",
+      "correct": "ஏற்கக்கூடிய",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "ஏற்ககூடிய",
+      "correct": "ஏற்கக்கூடிய",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.93,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "ஏற்க கூடாத",
+      "correct": "ஏற்கக்கூடாத",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "ஏற்ககூடாத",
+      "correct": "ஏற்கக்கூடாத",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.93,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "ஏற்க கூடும்",
+      "correct": "ஏற்கக்கூடும்",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "ஏற்ககூடும்",
+      "correct": "ஏற்கக்கூடும்",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.93,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "நம்ப கூடிய",
+      "correct": "நம்பக்கூடிய",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "நம்பகூடிய",
+      "correct": "நம்பக்கூடிய",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.93,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "நம்ப கூடாத",
+      "correct": "நம்பக்கூடாத",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "நம்பகூடாத",
+      "correct": "நம்பக்கூடாத",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.93,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "நம்ப கூடும்",
+      "correct": "நம்பக்கூடும்",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "நம்பகூடும்",
+      "correct": "நம்பக்கூடும்",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.93,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "நடைபெற கூடிய",
+      "correct": "நடைபெறக்கூடிய",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "நடைபெறகூடிய",
+      "correct": "நடைபெறக்கூடிய",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.93,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "நடைபெற கூடாத",
+      "correct": "நடைபெறக்கூடாத",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "நடைபெறகூடாத",
+      "correct": "நடைபெறக்கூடாத",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.93,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "நடைபெற கூடும்",
+      "correct": "நடைபெறக்கூடும்",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "நடைபெறகூடும்",
+      "correct": "நடைபெறக்கூடும்",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.93,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "மாற்ற கூடிய",
+      "correct": "மாற்றக்கூடிய",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "மாற்றகூடிய",
+      "correct": "மாற்றக்கூடிய",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.93,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "மாற்ற கூடாத",
+      "correct": "மாற்றக்கூடாத",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "மாற்றகூடாத",
+      "correct": "மாற்றக்கூடாத",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.93,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "மாற்ற கூடும்",
+      "correct": "மாற்றக்கூடும்",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "மாற்றகூடும்",
+      "correct": "மாற்றக்கூடும்",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.93,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "சொல்ல கூடிய",
+      "correct": "சொல்லக்கூடிய",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "சொல்லகூடிய",
+      "correct": "சொல்லக்கூடிய",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.93,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "சொல்ல கூடாத",
+      "correct": "சொல்லக்கூடாத",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "சொல்லகூடாத",
+      "correct": "சொல்லக்கூடாத",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.93,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "சொல்ல கூடும்",
+      "correct": "சொல்லக்கூடும்",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "சொல்லகூடும்",
+      "correct": "சொல்லக்கூடும்",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.93,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "பெற கூடிய",
+      "correct": "பெறக்கூடிய",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "பெறகூடிய",
+      "correct": "பெறக்கூடிய",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.93,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "பெற கூடாத",
+      "correct": "பெறக்கூடாத",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "பெறகூடாத",
+      "correct": "பெறக்கூடாத",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.93,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "பெற கூடும்",
+      "correct": "பெறக்கூடும்",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "பெறகூடும்",
+      "correct": "பெறக்கூடும்",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.93,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "செய்ய கூடிய",
+      "correct": "செய்யக்கூடிய",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "செய்யகூடிய",
+      "correct": "செய்யக்கூடிய",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.93,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "செய்ய கூடாத",
+      "correct": "செய்யக்கூடாத",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "செய்யகூடாத",
+      "correct": "செய்யக்கூடாத",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.93,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "செய்ய கூடும்",
+      "correct": "செய்யக்கூடும்",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "செய்யகூடும்",
+      "correct": "செய்யக்கூடும்",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.93,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "வழங்க கூடிய",
+      "correct": "வழங்கக்கூடிய",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "வழங்ககூடிய",
+      "correct": "வழங்கக்கூடிய",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.93,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "வழங்க கூடாத",
+      "correct": "வழங்கக்கூடாத",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "வழங்ககூடாத",
+      "correct": "வழங்கக்கூடாத",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.93,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "வழங்க கூடும்",
+      "correct": "வழங்கக்கூடும்",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "வழங்ககூடும்",
+      "correct": "வழங்கக்கூடும்",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.93,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "நிறைவேற்ற கூடிய",
+      "correct": "நிறைவேற்றக்கூடிய",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "நிறைவேற்றகூடிய",
+      "correct": "நிறைவேற்றக்கூடிய",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.93,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "நிறைவேற்ற கூடாத",
+      "correct": "நிறைவேற்றக்கூடாத",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "நிறைவேற்றகூடாத",
+      "correct": "நிறைவேற்றக்கூடாத",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.93,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "நிறைவேற்ற கூடும்",
+      "correct": "நிறைவேற்றக்கூடும்",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "நிறைவேற்றகூடும்",
+      "correct": "நிறைவேற்றக்கூடும்",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.93,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "நிரூபிக்க கூடிய",
+      "correct": "நிரூபிக்கக்கூடிய",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "நிரூபிக்ககூடிய",
+      "correct": "நிரூபிக்கக்கூடிய",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.93,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "நிரூபிக்க கூடாத",
+      "correct": "நிரூபிக்கக்கூடாத",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "நிரூபிக்ககூடாத",
+      "correct": "நிரூபிக்கக்கூடாத",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.93,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "நிரூபிக்க கூடும்",
+      "correct": "நிரூபிக்கக்கூடும்",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "நிரூபிக்ககூடும்",
+      "correct": "நிரூபிக்கக்கூடும்",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.93,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உறுதிப்படுத்த கூடிய",
+      "correct": "உறுதிப்படுத்தக்கூடிய",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உறுதிப்படுத்தகூடிய",
+      "correct": "உறுதிப்படுத்தக்கூடிய",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.93,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உறுதிப்படுத்த கூடாத",
+      "correct": "உறுதிப்படுத்தக்கூடாத",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உறுதிப்படுத்தகூடாத",
+      "correct": "உறுதிப்படுத்தக்கூடாத",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.93,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உறுதிப்படுத்த கூடும்",
+      "correct": "உறுதிப்படுத்தக்கூடும்",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உறுதிப்படுத்தகூடும்",
+      "correct": "உறுதிப்படுத்தக்கூடும்",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.93,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "நிலைநாட்ட கூடிய",
+      "correct": "நிலைநாட்டக்கூடிய",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "நிலைநாட்டகூடிய",
+      "correct": "நிலைநாட்டக்கூடிய",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.93,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "நிலைநாட்ட கூடாத",
+      "correct": "நிலைநாட்டக்கூடாத",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "நிலைநாட்டகூடாத",
+      "correct": "நிலைநாட்டக்கூடாத",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.93,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "நிலைநாட்ட கூடும்",
+      "correct": "நிலைநாட்டக்கூடும்",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "நிலைநாட்டகூடும்",
+      "correct": "நிலைநாட்டக்கூடும்",
+      "category": "vallina_migal_compound",
+      "phrase_anchored": false,
+      "confidence": 0.93,
+      "source": "session_20260918"
+    }
+  ]
+}

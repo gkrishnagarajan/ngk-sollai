@@ -1,0 +1,220 @@
+{
+  "rules": [
+    {
+      "wrong": "உத்தரவு கூறியுள்ளார்",
+      "correct": "உத்தரவு கோரியுள்ளார்",
+      "category": "சட்ட_சொல்_ஒலி_பிழை",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "உத்தரவு context: கூறி (stated) → கோரி (prayed/sought); ஓ/ஊ vowel mishear"
+    },
+    {
+      "wrong": "உத்தரவு கூறியுள்ளாள்",
+      "correct": "உத்தரவு கோரியுள்ளாள்",
+      "category": "சட்ட_சொல்_ஒலி_பிழை",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "உத்தரவு context: கூறி (stated) → கோரி (prayed/sought); ஓ/ஊ vowel mishear"
+    },
+    {
+      "wrong": "உத்தரவு கூறியுள்ளனர்",
+      "correct": "உத்தரவு கோரியுள்ளனர்",
+      "category": "சட்ட_சொல்_ஒலி_பிழை",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "உத்தரவு context: கூறி (stated) → கோரி (prayed/sought); ஓ/ஊ vowel mishear"
+    },
+    {
+      "wrong": "உத்தரவு கூறியிருக்கிறார்",
+      "correct": "உத்தரவு கோரியிருக்கிறார்",
+      "category": "சட்ட_சொல்_ஒலி_பிழை",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "உத்தரவு context: கூறி (stated) → கோரி (prayed/sought); ஓ/ஊ vowel mishear"
+    },
+    {
+      "wrong": "உத்தரவு கூறியிருக்கின்றனர்",
+      "correct": "உத்தரவு கோரியிருக்கின்றனர்",
+      "category": "சட்ட_சொல்_ஒலி_பிழை",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "உத்தரவு context: கூறி (stated) → கோரி (prayed/sought); ஓ/ஊ vowel mishear"
+    },
+    {
+      "wrong": "உத்தரவு கூறப்பட்டுள்ளது",
+      "correct": "உத்தரவு கோரப்பட்டுள்ளது",
+      "category": "சட்ட_சொல்_ஒலி_பிழை",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "உத்தரவு context: கூறி (stated) → கோரி (prayed/sought); ஓ/ஊ vowel mishear"
+    },
+    {
+      "wrong": "உத்தரவு கூறப்படுகிறது",
+      "correct": "உத்தரவு கோரப்படுகிறது",
+      "category": "சட்ட_சொல்_ஒலி_பிழை",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "உத்தரவு context: கூறி (stated) → கோரி (prayed/sought); ஓ/ஊ vowel mishear"
+    },
+    {
+      "wrong": "உத்தரவு கூறினார்",
+      "correct": "உத்தரவு கோரினார்",
+      "category": "சட்ட_சொல்_ஒலி_பிழை",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "உத்தரவு context: கூறி (stated) → கோரி (prayed/sought); ஓ/ஊ vowel mishear"
+    },
+    {
+      "wrong": "உத்தரவு கூறினர்",
+      "correct": "உத்தரவு கோரினர்",
+      "category": "சட்ட_சொல்_ஒலி_பிழை",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "உத்தரவு context: கூறி (stated) → கோரி (prayed/sought); ஓ/ஊ vowel mishear"
+    },
+    {
+      "wrong": "உத்தரவிட கூறியுள்ளார்",
+      "correct": "உத்தரவிடக் கோரியுள்ளார்",
+      "category": "சட்ட_சொல்_ஒலி_பிழை_வல்லினம்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "உத்தரவிட context: கூறி → கோரி + vallina க் migal before கோரி"
+    },
+    {
+      "wrong": "உத்தரவிட கூறியுள்ளாள்",
+      "correct": "உத்தரவிடக் கோரியுள்ளாள்",
+      "category": "சட்ட_சொல்_ஒலி_பிழை_வல்லினம்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "உத்தரவிட context: கூறி → கோரி + vallina க் migal before கோரி"
+    },
+    {
+      "wrong": "உத்தரவிட கூறியுள்ளனர்",
+      "correct": "உத்தரவிடக் கோரியுள்ளனர்",
+      "category": "சட்ட_சொல்_ஒலி_பிழை_வல்லினம்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "உத்தரவிட context: கூறி → கோரி + vallina க் migal before கோரி"
+    },
+    {
+      "wrong": "உத்தரவிட கூறியிருக்கிறார்",
+      "correct": "உத்தரவிடக் கோரியிருக்கிறார்",
+      "category": "சட்ட_சொல்_ஒலி_பிழை_வல்லினம்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "உத்தரவிட context: கூறி → கோரி + vallina க் migal before கோரி"
+    },
+    {
+      "wrong": "உத்தரவிட கூறியிருக்கின்றனர்",
+      "correct": "உத்தரவிடக் கோரியிருக்கின்றனர்",
+      "category": "சட்ட_சொல்_ஒலி_பிழை_வல்லினம்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "உத்தரவிட context: கூறி → கோரி + vallina க் migal before கோரி"
+    },
+    {
+      "wrong": "உத்தரவிட கூறப்பட்டுள்ளது",
+      "correct": "உத்தரவிடக் கோரப்பட்டுள்ளது",
+      "category": "சட்ட_சொல்_ஒலி_பிழை_வல்லினம்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "உத்தரவிட context: கூறி → கோரி + vallina க் migal before கோரி"
+    },
+    {
+      "wrong": "உத்தரவிட கூறப்படுகிறது",
+      "correct": "உத்தரவிடக் கோரப்படுகிறது",
+      "category": "சட்ட_சொல்_ஒலி_பிழை_வல்லினம்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "உத்தரவிட context: கூறி → கோரி + vallina க் migal before கோரி"
+    },
+    {
+      "wrong": "உத்தரவிட கூறினார்",
+      "correct": "உத்தரவிடக் கோரினார்",
+      "category": "சட்ட_சொல்_ஒலி_பிழை_வல்லினம்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "உத்தரவிட context: கூறி → கோரி + vallina க் migal before கோரி"
+    },
+    {
+      "wrong": "உத்தரவிட கூறினர்",
+      "correct": "உத்தரவிடக் கோரினர்",
+      "category": "சட்ட_சொல்_ஒலி_பிழை_வல்லினம்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "உத்தரவிட context: கூறி → கோரி + vallina க் migal before கோரி"
+    },
+    {
+      "wrong": "உத்தரவிடக் கூறியுள்ளார்",
+      "correct": "உத்தரவிடக் கோரியுள்ளார்",
+      "category": "சட்ட_சொல்_ஒலி_பிழை",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "உத்தரவிடக் context (vallina already present): கூறி → கோரி"
+    },
+    {
+      "wrong": "உத்தரவிடக் கூறியுள்ளாள்",
+      "correct": "உத்தரவிடக் கோரியுள்ளாள்",
+      "category": "சட்ட_சொல்_ஒலி_பிழை",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "உத்தரவிடக் context (vallina already present): கூறி → கோரி"
+    },
+    {
+      "wrong": "உத்தரவிடக் கூறியுள்ளனர்",
+      "correct": "உத்தரவிடக் கோரியுள்ளனர்",
+      "category": "சட்ட_சொல்_ஒலி_பிழை",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "உத்தரவிடக் context (vallina already present): கூறி → கோரி"
+    },
+    {
+      "wrong": "உத்தரவிடக் கூறியிருக்கிறார்",
+      "correct": "உத்தரவிடக் கோரியிருக்கிறார்",
+      "category": "சட்ட_சொல்_ஒலி_பிழை",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "உத்தரவிடக் context (vallina already present): கூறி → கோரி"
+    },
+    {
+      "wrong": "உத்தரவிடக் கூறியிருக்கின்றனர்",
+      "correct": "உத்தரவிடக் கோரியிருக்கின்றனர்",
+      "category": "சட்ட_சொல்_ஒலி_பிழை",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "உத்தரவிடக் context (vallina already present): கூறி → கோரி"
+    },
+    {
+      "wrong": "உத்தரவிடக் கூறப்பட்டுள்ளது",
+      "correct": "உத்தரவிடக் கோரப்பட்டுள்ளது",
+      "category": "சட்ட_சொல்_ஒலி_பிழை",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "உத்தரவிடக் context (vallina already present): கூறி → கோரி"
+    },
+    {
+      "wrong": "உத்தரவிடக் கூறப்படுகிறது",
+      "correct": "உத்தரவிடக் கோரப்படுகிறது",
+      "category": "சட்ட_சொல்_ஒலி_பிழை",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "உத்தரவிடக் context (vallina already present): கூறி → கோரி"
+    },
+    {
+      "wrong": "உத்தரவிடக் கூறினார்",
+      "correct": "உத்தரவிடக் கோரினார்",
+      "category": "சட்ட_சொல்_ஒலி_பிழை",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "உத்தரவிடக் context (vallina already present): கூறி → கோரி"
+    },
+    {
+      "wrong": "உத்தரவிடக் கூறினர்",
+      "correct": "உத்தரவிடக் கோரினர்",
+      "category": "சட்ட_சொல்_ஒலி_பிழை",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "உத்தரவிடக் context (vallina already present): கூறி → கோரி"
+    }
+  ]
+}

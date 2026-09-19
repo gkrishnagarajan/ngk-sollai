@@ -1,0 +1,21 @@
+{
+  "family": "dates",
+  "lane": "both",
+  "detectors": [
+    {
+      "id": "DOB",
+      "method": "regex",
+      "priority": 55,
+      "confidence": 0.9,
+      "pattern": "(?:D\\.?O\\.?B\\.?|Date\\s*of\\s*Birth|பிறந்த\\s*தேதி)\\s*[:\\-]?\\s*(\\d{1,2}[./\\-]\\d{1,2}[./\\-]\\d{2,4})",
+      "group": 1
+    },
+    {
+      "id": "DATE",
+      "method": "regex",
+      "priority": 70,
+      "confidence": 0.8,
+      "pattern": "\\b\\d{1,2}[./\\-]\\d{1,2}[./\\-]\\d{2,4}\\b"
+    }
+  ]
+}

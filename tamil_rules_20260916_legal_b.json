@@ -1,0 +1,290 @@
+[
+  {
+    "wrong": "ஆஜர்பினை",
+    "correct": "ஆட்சேபணை",
+    "category": "legal_terminology",
+    "phrase_anchored": true,
+    "confidence": 0.95,
+    "source": "voice_mishear"
+  },
+  {
+    "wrong": "ஆஜர்பினையை",
+    "correct": "ஆட்சேபணையை",
+    "category": "legal_terminology",
+    "phrase_anchored": true,
+    "confidence": 0.95,
+    "source": "voice_mishear"
+  },
+  {
+    "wrong": "ஆஜர்பினையின்",
+    "correct": "ஆட்சேபணையின்",
+    "category": "legal_terminology",
+    "phrase_anchored": true,
+    "confidence": 0.95,
+    "source": "voice_mishear"
+  },
+  {
+    "wrong": "ஆஜர்பினையில்",
+    "correct": "ஆட்சேபணையில்",
+    "category": "legal_terminology",
+    "phrase_anchored": true,
+    "confidence": 0.95,
+    "source": "voice_mishear"
+  },
+  {
+    "wrong": "ஆஜர்பினைகள்",
+    "correct": "ஆட்சேபணைகள்",
+    "category": "legal_terminology",
+    "phrase_anchored": true,
+    "confidence": 0.95,
+    "source": "voice_mishear"
+  },
+  {
+    "wrong": "ஆஜர்பினைகளை",
+    "correct": "ஆட்சேபணைகளை",
+    "category": "legal_terminology",
+    "phrase_anchored": true,
+    "confidence": 0.95,
+    "source": "voice_mishear"
+  },
+  {
+    "wrong": "மனதாரர்",
+    "correct": "மனுதாரர்",
+    "category": "legal_terminology",
+    "phrase_anchored": true,
+    "confidence": 0.95,
+    "source": "acoustic_mishear"
+  },
+  {
+    "wrong": "மனதாரரை",
+    "correct": "மனுதாரரை",
+    "category": "legal_terminology",
+    "phrase_anchored": true,
+    "confidence": 0.95,
+    "source": "acoustic_mishear"
+  },
+  {
+    "wrong": "மனதாரரின்",
+    "correct": "மனுதாரரின்",
+    "category": "legal_terminology",
+    "phrase_anchored": true,
+    "confidence": 0.95,
+    "source": "acoustic_mishear"
+  },
+  {
+    "wrong": "மனதாரருக்கு",
+    "correct": "மனுதாரருக்கு",
+    "category": "legal_terminology",
+    "phrase_anchored": true,
+    "confidence": 0.95,
+    "source": "acoustic_mishear"
+  },
+  {
+    "wrong": "மனதாரர்கள்",
+    "correct": "மனுதாரர்கள்",
+    "category": "legal_terminology",
+    "phrase_anchored": true,
+    "confidence": 0.95,
+    "source": "acoustic_mishear"
+  },
+  {
+    "wrong": "மனதாரர்களை",
+    "correct": "மனுதாரர்களை",
+    "category": "legal_terminology",
+    "phrase_anchored": true,
+    "confidence": 0.95,
+    "source": "acoustic_mishear"
+  },
+  {
+    "wrong": "மனதாரரிடம்",
+    "correct": "மனுதாரரிடம்",
+    "category": "legal_terminology",
+    "phrase_anchored": true,
+    "confidence": 0.95,
+    "source": "acoustic_mishear"
+  },
+  {
+    "wrong": "போலீசார்",
+    "correct": "காவல்துறையினர்",
+    "category": "legal_terminology",
+    "phrase_anchored": true,
+    "confidence": 0.95,
+    "source": "judicial_convention"
+  },
+  {
+    "wrong": "போலீசாரை",
+    "correct": "காவல்துறையினரை",
+    "category": "legal_terminology",
+    "phrase_anchored": true,
+    "confidence": 0.95,
+    "source": "judicial_convention"
+  },
+  {
+    "wrong": "போலீசாரின்",
+    "correct": "காவல்துறையினரின்",
+    "category": "legal_terminology",
+    "phrase_anchored": true,
+    "confidence": 0.95,
+    "source": "judicial_convention"
+  },
+  {
+    "wrong": "போலீசாரால்",
+    "correct": "காவல்துறையினரால்",
+    "category": "legal_terminology",
+    "phrase_anchored": true,
+    "confidence": 0.95,
+    "source": "judicial_convention"
+  },
+  {
+    "wrong": "போலீசாருக்கு",
+    "correct": "காவல்துறையினருக்கு",
+    "category": "legal_terminology",
+    "phrase_anchored": true,
+    "confidence": 0.95,
+    "source": "judicial_convention"
+  },
+  {
+    "wrong": "போலீசாரிடம்",
+    "correct": "காவல்துறையினரிடம்",
+    "category": "legal_terminology",
+    "phrase_anchored": true,
+    "confidence": 0.95,
+    "source": "judicial_convention"
+  },
+  {
+    "wrong": "போலீசாரிடமிருந்து",
+    "correct": "காவல்துறையினரிடமிருந்து",
+    "category": "legal_terminology",
+    "phrase_anchored": true,
+    "confidence": 0.95,
+    "source": "judicial_convention"
+  },
+  {
+    "wrong": "போலீஸ்",
+    "correct": "காவல்துறையினர்",
+    "category": "legal_terminology",
+    "phrase_anchored": true,
+    "confidence": 0.95,
+    "source": "judicial_convention"
+  },
+  {
+    "wrong": "போலீஸார்",
+    "correct": "காவல்துறையினர்",
+    "category": "legal_terminology",
+    "phrase_anchored": true,
+    "confidence": 0.95,
+    "source": "judicial_convention"
+  },
+  {
+    "wrong": "போலீஸாரை",
+    "correct": "காவல்துறையினரை",
+    "category": "legal_terminology",
+    "phrase_anchored": true,
+    "confidence": 0.95,
+    "source": "judicial_convention"
+  },
+  {
+    "wrong": "போலீஸாரின்",
+    "correct": "காவல்துறையினரின்",
+    "category": "legal_terminology",
+    "phrase_anchored": true,
+    "confidence": 0.95,
+    "source": "judicial_convention"
+  },
+  {
+    "wrong": "பொலீஸ்",
+    "correct": "காவல்துறையினர்",
+    "category": "legal_terminology",
+    "phrase_anchored": true,
+    "confidence": 0.95,
+    "source": "judicial_convention"
+  },
+  {
+    "wrong": "பொலீஸார்",
+    "correct": "காவல்துறையினர்",
+    "category": "legal_terminology",
+    "phrase_anchored": true,
+    "confidence": 0.95,
+    "source": "judicial_convention"
+  },
+  {
+    "wrong": "பொலீஸாரை",
+    "correct": "காவல்துறையினரை",
+    "category": "legal_terminology",
+    "phrase_anchored": true,
+    "confidence": 0.95,
+    "source": "judicial_convention"
+  },
+  {
+    "wrong": "பொலீஸாரின்",
+    "correct": "காவல்துறையினரின்",
+    "category": "legal_terminology",
+    "phrase_anchored": true,
+    "confidence": 0.95,
+    "source": "judicial_convention"
+  },
+  {
+    "wrong": "சமூகத்திற்கு பின்னிட்டு",
+    "correct": "சம்பவத்திற்குப் பிறகு",
+    "category": "voice_type_mishear",
+    "phrase_anchored": true,
+    "confidence": 0.93,
+    "source": "acoustic_mishear"
+  },
+  {
+    "wrong": "சமூகத்திற்கு பிறகு",
+    "correct": "சம்பவத்திற்குப் பிறகு",
+    "category": "voice_type_mishear",
+    "phrase_anchored": true,
+    "confidence": 0.93,
+    "source": "acoustic_mishear"
+  },
+  {
+    "wrong": "சவுக்கத்திற்கு பிறகு",
+    "correct": "சம்பவத்திற்குப் பிறகு",
+    "category": "voice_type_mishear",
+    "phrase_anchored": true,
+    "confidence": 0.93,
+    "source": "acoustic_mishear"
+  },
+  {
+    "wrong": "சம்மதத்திற்கு பிறகு",
+    "correct": "சம்பவத்திற்குப் பிறகு",
+    "category": "voice_type_mishear",
+    "phrase_anchored": true,
+    "confidence": 0.93,
+    "source": "acoustic_mishear"
+  },
+  {
+    "wrong": "சாம்பவத்திற்கு பிறகு",
+    "correct": "சம்பவத்திற்குப் பிறகு",
+    "category": "voice_type_mishear",
+    "phrase_anchored": true,
+    "confidence": 0.93,
+    "source": "acoustic_mishear"
+  },
+  {
+    "wrong": "சம்பத்திற்கு பிறகு",
+    "correct": "சம்பவத்திற்குப் பிறகு",
+    "category": "voice_type_mishear",
+    "phrase_anchored": true,
+    "confidence": 0.93,
+    "source": "acoustic_mishear"
+  },
+  {
+    "wrong": "சமூகத்திற்கு பின்னர்",
+    "correct": "சம்பவத்திற்குப் பிறகு",
+    "category": "voice_type_mishear",
+    "phrase_anchored": true,
+    "confidence": 0.93,
+    "source": "acoustic_mishear"
+  },
+  {
+    "wrong": "சவுக்கத்திற்கு பின்னிட்டு",
+    "correct": "சம்பவத்திற்குப் பிறகு",
+    "category": "voice_type_mishear",
+    "phrase_anchored": true,
+    "confidence": 0.93,
+    "source": "acoustic_mishear"
+  }
+]

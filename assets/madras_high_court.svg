@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420">
+  <g fill="none" stroke="#c9a84c" stroke-width="4" opacity=".75">
+    <path d="M80 350H820"/>
+    <path d="M120 330V190"/>
+    <path d="M180 330V190"/>
+    <path d="M240 330V190"/>
+    <path d="M300 330V190"/>
+    <path d="M360 330V190"/>
+    <path d="M420 330V190"/>
+    <path d="M480 330V190"/>
+    <path d="M540 330V190"/>
+    <path d="M600 330V190"/>
+    <path d="M660 330V190"/>
+    <path d="M720 330V190"/>
+    <path d="M780 330V190"/>
+    <path d="M100 190L450 55L800 190Z"/>
+    <path d="M145 190L450 80L755 190"/>
+    <path d="M70 350H830"/>
+  </g>
+  <g fill="#c9a84c" opacity=".75">
+    <path d="M450 55l-18 24h36z"/>
+    <circle cx="450" cy="42" r="9"/>
+  </g>
+</svg>

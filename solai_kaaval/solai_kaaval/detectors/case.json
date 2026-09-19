@@ -1,0 +1,21 @@
+{
+  "family": "case",
+  "lane": "both",
+  "detectors": [
+    {
+      "id": "CASE",
+      "method": "regex",
+      "priority": 20,
+      "confidence": 0.95,
+      "pattern": "\\b(?:C\\.C\\.|O\\.S\\.|Crl\\.M\\.P\\.|Crl\\.A\\.|Crl\\.O\\.P\\.|W\\.P\\.|H\\.M\\.O\\.P\\.|C\\.S\\.|M\\.C\\.|E\\.P\\.|I\\.A\\.|S\\.C\\.)\\s*(?:No\\.?)?\\s*\\d+\\s*/\\s*\\d{4}\\b"
+    },
+    {
+      "id": "FIR",
+      "method": "regex",
+      "priority": 20,
+      "confidence": 0.9,
+      "pattern": "(?:Crime|crime|FIR|F\\.I\\.R\\.|குற்ற)\\s*(?:No\\.?|எண்)?\\s*[:\\-]?\\s*(\\d+\\s*/\\s*\\d{4})",
+      "group": 1
+    }
+  ]
+}

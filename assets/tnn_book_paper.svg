@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 500">
+  <defs>
+    <linearGradient id="book" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#24365f"/>
+      <stop offset="1" stop-color="#101c38"/>
+    </linearGradient>
+  </defs>
+
+  <!-- book -->
+  <path d="M70 380 Q350 330 630 380 L610 455 Q350 410 90 455Z"
+        fill="url(#book)" stroke="#c9a84c" stroke-width="5"/>
+
+  <path d="M85 365 Q350 315 615 365 L590 395 Q350 350 105 395Z"
+        fill="#172645" stroke="#c9a84c" stroke-width="3"/>
+
+  <text x="350" y="388"
+        text-anchor="middle"
+        font-family="Noto Sans Tamil, Latha, sans-serif"
+        font-size="48"
+        font-weight="700"
+        fill="#f4d98b">சட்டம்</text>
+
+  <!-- paper -->
+  <path d="M205 55 H535 L565 85 V350 H205Z"
+        fill="#faf8f0" stroke="#c9a84c" stroke-width="4"/>
+
+  <path d="M535 55V85H565" fill="none"
+        stroke="#c9a84c" stroke-width="4"/>
+
+  <text x="245" y="125"
+        font-family="Noto Sans Tamil, Latha, sans-serif"
+        font-size="54"
+        font-weight="700"
+        fill="#172645">அ</text>
+
+  <line x1="245" y1="155" x2="520" y2="155"
+        stroke="#9aa0a6" stroke-width="3"/>
+  <line x1="245" y1="195" x2="520" y2="195"
+        stroke="#c0c4ca" stroke-width="3"/>
+  <line x1="245" y1="235" x2="490" y2="235"
+        stroke="#c0c4ca" stroke-width="3"/>
+  <line x1="245" y1="275" x2="515" y2="275"
+        stroke="#c0c4ca" stroke-width="3"/>
+</svg>

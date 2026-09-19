@@ -1,0 +1,28 @@
+{
+  "family": "contact",
+  "lane": "both",
+  "detectors": [
+    {
+      "id": "EMAIL",
+      "method": "regex",
+      "priority": 40,
+      "confidence": 0.97,
+      "pattern": "\\b[\\w.+\\-]+@[\\w\\-]+\\.[\\w.\\-]+\\b"
+    },
+    {
+      "id": "MOBILE",
+      "method": "regex",
+      "priority": 40,
+      "confidence": 0.9,
+      "pattern": "(?:\\+91[-\\s]?|0)?\\b[6-9]\\d{9}\\b"
+    },
+    {
+      "id": "PINCODE",
+      "method": "regex",
+      "priority": 45,
+      "confidence": 0.75,
+      "pattern": "(?:Pin\\.?\\s*(?:code)?|PIN|அஞ்சல்\\s*குறியீடு)\\s*[:\\-]?\\s*(\\d{6})",
+      "group": 1
+    }
+  ]
+}

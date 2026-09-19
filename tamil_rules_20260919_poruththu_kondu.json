@@ -1,0 +1,196 @@
+{
+  "rules": [
+    {
+      "wrong": "பொறுத்துக் கொண்டு",
+      "correct": "பொறுத்துக்கொண்டு",
+      "category": "துணைவினை_இணைப்பு_இடைவெளி_நீக்கம்",
+      "confidence": 0.98,
+      "source": "grammar_rule",
+      "notes": "voice-typing inserts space before கொண்டு at breath pause; vallina க் present but space splits compound"
+    },
+    {
+      "wrong": "பொறுத்து கொண்டு",
+      "correct": "பொறுத்துக்கொண்டு",
+      "category": "துணைவினை_இணைப்பு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "voice-typing drops vallina க் and inserts space; இ-ஈறு + க-முதல் வருமொழி → வல்லின ஒற்று க் மிகும்"
+    },
+    {
+      "wrong": "பொறுத்துக் கொண்டார்",
+      "correct": "பொறுத்துக்கொண்டார்",
+      "category": "துணைவினை_இணைப்பு_இடைவெளி_நீக்கம்",
+      "confidence": 0.98,
+      "source": "grammar_rule",
+      "notes": "voice-typing inserts space before கொண்டு at breath pause; vallina க் present but space splits compound"
+    },
+    {
+      "wrong": "பொறுத்து கொண்டார்",
+      "correct": "பொறுத்துக்கொண்டார்",
+      "category": "துணைவினை_இணைப்பு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "voice-typing drops vallina க் and inserts space; இ-ஈறு + க-முதல் வருமொழி → வல்லின ஒற்று க் மிகும்"
+    },
+    {
+      "wrong": "பொறுத்துக் கொண்டாள்",
+      "correct": "பொறுத்துக்கொண்டாள்",
+      "category": "துணைவினை_இணைப்பு_இடைவெளி_நீக்கம்",
+      "confidence": 0.98,
+      "source": "grammar_rule",
+      "notes": "voice-typing inserts space before கொண்டு at breath pause; vallina க் present but space splits compound"
+    },
+    {
+      "wrong": "பொறுத்து கொண்டாள்",
+      "correct": "பொறுத்துக்கொண்டாள்",
+      "category": "துணைவினை_இணைப்பு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "voice-typing drops vallina க் and inserts space; இ-ஈறு + க-முதல் வருமொழி → வல்லின ஒற்று க் மிகும்"
+    },
+    {
+      "wrong": "பொறுத்துக் கொண்டான்",
+      "correct": "பொறுத்துக்கொண்டான்",
+      "category": "துணைவினை_இணைப்பு_இடைவெளி_நீக்கம்",
+      "confidence": 0.98,
+      "source": "grammar_rule",
+      "notes": "voice-typing inserts space before கொண்டு at breath pause; vallina க் present but space splits compound"
+    },
+    {
+      "wrong": "பொறுத்து கொண்டான்",
+      "correct": "பொறுத்துக்கொண்டான்",
+      "category": "துணைவினை_இணைப்பு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "voice-typing drops vallina க் and inserts space; இ-ஈறு + க-முதல் வருமொழி → வல்லின ஒற்று க் மிகும்"
+    },
+    {
+      "wrong": "பொறுத்துக் கொண்டனர்",
+      "correct": "பொறுத்துக்கொண்டனர்",
+      "category": "துணைவினை_இணைப்பு_இடைவெளி_நீக்கம்",
+      "confidence": 0.98,
+      "source": "grammar_rule",
+      "notes": "voice-typing inserts space before கொண்டு at breath pause; vallina க் present but space splits compound"
+    },
+    {
+      "wrong": "பொறுத்து கொண்டனர்",
+      "correct": "பொறுத்துக்கொண்டனர்",
+      "category": "துணைவினை_இணைப்பு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "voice-typing drops vallina க் and inserts space; இ-ஈறு + க-முதல் வருமொழி → வல்லின ஒற்று க் மிகும்"
+    },
+    {
+      "wrong": "பொறுத்துக் கொண்டிருந்தார்",
+      "correct": "பொறுத்துக்கொண்டிருந்தார்",
+      "category": "துணைவினை_இணைப்பு_இடைவெளி_நீக்கம்",
+      "confidence": 0.98,
+      "source": "grammar_rule",
+      "notes": "voice-typing inserts space before கொண்டு at breath pause; vallina க் present but space splits compound"
+    },
+    {
+      "wrong": "பொறுத்து கொண்டிருந்தார்",
+      "correct": "பொறுத்துக்கொண்டிருந்தார்",
+      "category": "துணைவினை_இணைப்பு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "voice-typing drops vallina க் and inserts space; இ-ஈறு + க-முதல் வருமொழி → வல்லின ஒற்று க் மிகும்"
+    },
+    {
+      "wrong": "பொறுத்துக் கொண்டிருந்தாள்",
+      "correct": "பொறுத்துக்கொண்டிருந்தாள்",
+      "category": "துணைவினை_இணைப்பு_இடைவெளி_நீக்கம்",
+      "confidence": 0.98,
+      "source": "grammar_rule",
+      "notes": "voice-typing inserts space before கொண்டு at breath pause; vallina க் present but space splits compound"
+    },
+    {
+      "wrong": "பொறுத்து கொண்டிருந்தாள்",
+      "correct": "பொறுத்துக்கொண்டிருந்தாள்",
+      "category": "துணைவினை_இணைப்பு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "voice-typing drops vallina க் and inserts space; இ-ஈறு + க-முதல் வருமொழி → வல்லின ஒற்று க் மிகும்"
+    },
+    {
+      "wrong": "பொறுத்துக் கொண்டிருந்தனர்",
+      "correct": "பொறுத்துக்கொண்டிருந்தனர்",
+      "category": "துணைவினை_இணைப்பு_இடைவெளி_நீக்கம்",
+      "confidence": 0.98,
+      "source": "grammar_rule",
+      "notes": "voice-typing inserts space before கொண்டு at breath pause; vallina க் present but space splits compound"
+    },
+    {
+      "wrong": "பொறுத்து கொண்டிருந்தனர்",
+      "correct": "பொறுத்துக்கொண்டிருந்தனர்",
+      "category": "துணைவினை_இணைப்பு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "voice-typing drops vallina க் and inserts space; இ-ஈறு + க-முதல் வருமொழி → வல்லின ஒற்று க் மிகும்"
+    },
+    {
+      "wrong": "பொறுத்துக் கொண்டிருக்கிறார்",
+      "correct": "பொறுத்துக்கொண்டிருக்கிறார்",
+      "category": "துணைவினை_இணைப்பு_இடைவெளி_நீக்கம்",
+      "confidence": 0.98,
+      "source": "grammar_rule",
+      "notes": "voice-typing inserts space before கொண்டு at breath pause; vallina க் present but space splits compound"
+    },
+    {
+      "wrong": "பொறுத்து கொண்டிருக்கிறார்",
+      "correct": "பொறுத்துக்கொண்டிருக்கிறார்",
+      "category": "துணைவினை_இணைப்பு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "voice-typing drops vallina க் and inserts space; இ-ஈறு + க-முதல் வருமொழி → வல்லின ஒற்று க் மிகும்"
+    },
+    {
+      "wrong": "பொறுத்துக் கொண்டிருக்கிறாள்",
+      "correct": "பொறுத்துக்கொண்டிருக்கிறாள்",
+      "category": "துணைவினை_இணைப்பு_இடைவெளி_நீக்கம்",
+      "confidence": 0.98,
+      "source": "grammar_rule",
+      "notes": "voice-typing inserts space before கொண்டு at breath pause; vallina க் present but space splits compound"
+    },
+    {
+      "wrong": "பொறுத்து கொண்டிருக்கிறாள்",
+      "correct": "பொறுத்துக்கொண்டிருக்கிறாள்",
+      "category": "துணைவினை_இணைப்பு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "voice-typing drops vallina க் and inserts space; இ-ஈறு + க-முதல் வருமொழி → வல்லின ஒற்று க் மிகும்"
+    },
+    {
+      "wrong": "பொறுத்துக் கொண்டிருக்கின்றனர்",
+      "correct": "பொறுத்துக்கொண்டிருக்கின்றனர்",
+      "category": "துணைவினை_இணைப்பு_இடைவெளி_நீக்கம்",
+      "confidence": 0.98,
+      "source": "grammar_rule",
+      "notes": "voice-typing inserts space before கொண்டு at breath pause; vallina க் present but space splits compound"
+    },
+    {
+      "wrong": "பொறுத்து கொண்டிருக்கின்றனர்",
+      "correct": "பொறுத்துக்கொண்டிருக்கின்றனர்",
+      "category": "துணைவினை_இணைப்பு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "voice-typing drops vallina க் and inserts space; இ-ஈறு + க-முதல் வருமொழி → வல்லின ஒற்று க் மிகும்"
+    },
+    {
+      "wrong": "பொறுத்துக் கொண்டுவந்தார்",
+      "correct": "பொறுத்துக்கொண்டுவந்தார்",
+      "category": "துணைவினை_இணைப்பு_இடைவெளி_நீக்கம்",
+      "confidence": 0.98,
+      "source": "grammar_rule",
+      "notes": "voice-typing inserts space before கொண்டு at breath pause; vallina க் present but space splits compound"
+    },
+    {
+      "wrong": "பொறுத்து கொண்டுவந்தார்",
+      "correct": "பொறுத்துக்கொண்டுவந்தார்",
+      "category": "துணைவினை_இணைப்பு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "voice-typing drops vallina க் and inserts space; இ-ஈறு + க-முதல் வருமொழி → வல்லின ஒற்று க் மிகும்"
+    }
+  ]
+}

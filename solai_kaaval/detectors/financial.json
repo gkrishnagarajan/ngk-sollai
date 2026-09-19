@@ -1,0 +1,36 @@
+{
+  "family": "financial",
+  "lane": "both",
+  "detectors": [
+    {
+      "id": "IFSC",
+      "method": "regex",
+      "priority": 30,
+      "confidence": 0.95,
+      "pattern": "\\b[A-Z]{4}0[A-Z0-9]{6}\\b"
+    },
+    {
+      "id": "CARD",
+      "method": "regex",
+      "priority": 30,
+      "confidence": 0.9,
+      "pattern": "\\b(?:\\d{4}[-\\s]?){3}\\d{4}\\b"
+    },
+    {
+      "id": "BANKACC",
+      "method": "regex",
+      "priority": 35,
+      "confidence": 0.85,
+      "pattern": "(?:account|Account|A/c|a/c|கணக்கு)\\s*(?:no\\.?|number|எண்)?\\s*[:\\-]?\\s*(\\d{6,18})",
+      "group": 1
+    },
+    {
+      "id": "CHEQUE",
+      "method": "regex",
+      "priority": 35,
+      "confidence": 0.85,
+      "pattern": "(?:cheque|Cheque|காசோலை)\\s*(?:no\\.?|எண்)?\\s*[:\\-]?\\s*(\\d{6})",
+      "group": 1
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "family": "person",
+  "lane": "english",
+  "detectors": [
+    {
+      "id": "PERSON",
+      "token": "PERSON",
+      "method": "anchor",
+      "priority": 80,
+      "confidence": 0.75,
+      "max_tokens": 3,
+      "anchors": [
+        "Thiru",
+        "Tmt",
+        "Selvi",
+        "Mr",
+        "Mrs",
+        "Ms",
+        "Dr",
+        "S/o",
+        "s/o",
+        "W/o",
+        "w/o",
+        "D/o",
+        "d/o",
+        "for the petitioner",
+        "for the respondent",
+        "learned counsel"
+      ],
+      "stopwords": [
+        "is",
+        "was",
+        "the",
+        "and",
+        "who",
+        "aged",
+        "resident",
+        "r/o",
+        "vs",
+        "versus",
+        "Advocate",
+        "learned",
+        "counsel",
+        "son",
+        "of",
+        "daughter",
+        "wife",
+        "husband",
+        "alias"
+      ]
+    }
+  ]
+}

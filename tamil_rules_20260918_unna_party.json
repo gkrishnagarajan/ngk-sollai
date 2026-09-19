@@ -1,0 +1,804 @@
+{
+  "rules": [
+    {
+      "wrong": "உண்ணா மனுதாரர்",
+      "correct": "1-ஆம் மனுதாரர்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா மனுதாரரரை",
+      "correct": "1-ஆம் மனுதாரரரை",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா மனுதாரரரால்",
+      "correct": "1-ஆம் மனுதாரரரால்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா மனுதாரருக்கு",
+      "correct": "1-ஆம் மனுதாரருக்கு",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா மனுதாரருக்கும்",
+      "correct": "1-ஆம் மனுதாரருக்கும்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா மனுதாரருடன்",
+      "correct": "1-ஆம் மனுதாரருடன்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா மனுதாரருடைய",
+      "correct": "1-ஆம் மனுதாரருடைய",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா மனுதாரரரின்",
+      "correct": "1-ஆம் மனுதாரரரின்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா மனுதாரரரும்",
+      "correct": "1-ஆம் மனுதாரரரும்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா மனுதாரரரோ",
+      "correct": "1-ஆம் மனுதாரரரோ",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா மனுதாரர்கள்",
+      "correct": "1-ஆம் மனுதாரர்கள்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா மனுதாரர்களை",
+      "correct": "1-ஆம் மனுதாரர்களை",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா மனுதாரர்களுக்கு",
+      "correct": "1-ஆம் மனுதாரர்களுக்கு",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா மனுதாரர்களால்",
+      "correct": "1-ஆம் மனுதாரர்களால்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா மனுதாரர்களின்",
+      "correct": "1-ஆம் மனுதாரர்களின்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா எதிர்மனுதாரர்",
+      "correct": "1-ஆம் எதிர்மனுதாரர்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா எதிர்மனுதாரரரை",
+      "correct": "1-ஆம் எதிர்மனுதாரரரை",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா எதிர்மனுதாரரரால்",
+      "correct": "1-ஆம் எதிர்மனுதாரரரால்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா எதிர்மனுதாரருக்கு",
+      "correct": "1-ஆம் எதிர்மனுதாரருக்கு",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா எதிர்மனுதாரருக்கும்",
+      "correct": "1-ஆம் எதிர்மனுதாரருக்கும்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா எதிர்மனுதாரருடன்",
+      "correct": "1-ஆம் எதிர்மனுதாரருடன்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா எதிர்மனுதாரருடைய",
+      "correct": "1-ஆம் எதிர்மனுதாரருடைய",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா எதிர்மனுதாரரரின்",
+      "correct": "1-ஆம் எதிர்மனுதாரரரின்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா எதிர்மனுதாரரரும்",
+      "correct": "1-ஆம் எதிர்மனுதாரரரும்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா எதிர்மனுதாரர்கள்",
+      "correct": "1-ஆம் எதிர்மனுதாரர்கள்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா எதிர்மனுதாரர்களை",
+      "correct": "1-ஆம் எதிர்மனுதாரர்களை",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா எதிர்மனுதாரர்களுக்கு",
+      "correct": "1-ஆம் எதிர்மனுதாரர்களுக்கு",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா எதிர்மனுதாரர்களால்",
+      "correct": "1-ஆம் எதிர்மனுதாரர்களால்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா எதிர்மனுதாரர்களின்",
+      "correct": "1-ஆம் எதிர்மனுதாரர்களின்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா வாதி",
+      "correct": "1-ஆம் வாதி",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா வாதியை",
+      "correct": "1-ஆம் வாதியை",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா வாதிக்கு",
+      "correct": "1-ஆம் வாதிக்கு",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா வாதிக்கும்",
+      "correct": "1-ஆம் வாதிக்கும்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா வாதியுடன்",
+      "correct": "1-ஆம் வாதியுடன்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா வாதியின்",
+      "correct": "1-ஆம் வாதியின்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா வாதியும்",
+      "correct": "1-ஆம் வாதியும்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா வாதியால்",
+      "correct": "1-ஆம் வாதியால்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா வாதிகள்",
+      "correct": "1-ஆம் வாதிகள்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா வாதிகளை",
+      "correct": "1-ஆம் வாதிகளை",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா வாதிகளுக்கு",
+      "correct": "1-ஆம் வாதிகளுக்கு",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா வாதிகளால்",
+      "correct": "1-ஆம் வாதிகளால்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா வாதிகளின்",
+      "correct": "1-ஆம் வாதிகளின்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா பிரதிவாதி",
+      "correct": "1-ஆம் பிரதிவாதி",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா பிரதிவாதியை",
+      "correct": "1-ஆம் பிரதிவாதியை",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா பிரதிவாதிக்கு",
+      "correct": "1-ஆம் பிரதிவாதிக்கு",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா பிரதிவாதிக்கும்",
+      "correct": "1-ஆம் பிரதிவாதிக்கும்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா பிரதிவாதியுடன்",
+      "correct": "1-ஆம் பிரதிவாதியுடன்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா பிரதிவாதியின்",
+      "correct": "1-ஆம் பிரதிவாதியின்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா பிரதிவாதியும்",
+      "correct": "1-ஆம் பிரதிவாதியும்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா பிரதிவாதியால்",
+      "correct": "1-ஆம் பிரதிவாதியால்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா பிரதிவாதிகள்",
+      "correct": "1-ஆம் பிரதிவாதிகள்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா பிரதிவாதிகளை",
+      "correct": "1-ஆம் பிரதிவாதிகளை",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா பிரதிவாதிகளுக்கு",
+      "correct": "1-ஆம் பிரதிவாதிகளுக்கு",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா பிரதிவாதிகளால்",
+      "correct": "1-ஆம் பிரதிவாதிகளால்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா பிரதிவாதிகளின்",
+      "correct": "1-ஆம் பிரதிவாதிகளின்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா மேல்முறையீட்டாளர்",
+      "correct": "1-ஆம் மேல்முறையீட்டாளர்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா மேல்முறையீட்டாளரை",
+      "correct": "1-ஆம் மேல்முறையீட்டாளரை",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா மேல்முறையீட்டாளருக்கு",
+      "correct": "1-ஆம் மேல்முறையீட்டாளருக்கு",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா மேல்முறையீட்டாளருக்கும்",
+      "correct": "1-ஆம் மேல்முறையீட்டாளருக்கும்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா மேல்முறையீட்டாளரின்",
+      "correct": "1-ஆம் மேல்முறையீட்டாளரின்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா மேல்முறையீட்டாளரும்",
+      "correct": "1-ஆம் மேல்முறையீட்டாளரும்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா மேல்முறையீட்டாளரால்",
+      "correct": "1-ஆம் மேல்முறையீட்டாளரால்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா மேல்முறையீட்டாளர்கள்",
+      "correct": "1-ஆம் மேல்முறையீட்டாளர்கள்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா மேல்முறையீட்டாளர்களை",
+      "correct": "1-ஆம் மேல்முறையீட்டாளர்களை",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா மேல்முறையீட்டாளர்களுக்கு",
+      "correct": "1-ஆம் மேல்முறையீட்டாளர்களுக்கு",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா பதிலீட்டாளர்",
+      "correct": "1-ஆம் பதிலீட்டாளர்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா பதிலீட்டாளரை",
+      "correct": "1-ஆம் பதிலீட்டாளரை",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா பதிலீட்டாளருக்கு",
+      "correct": "1-ஆம் பதிலீட்டாளருக்கு",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா பதிலீட்டாளருக்கும்",
+      "correct": "1-ஆம் பதிலீட்டாளருக்கும்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா பதிலீட்டாளரின்",
+      "correct": "1-ஆம் பதிலீட்டாளரின்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா பதிலீட்டாளரும்",
+      "correct": "1-ஆம் பதிலீட்டாளரும்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா பதிலீட்டாளரால்",
+      "correct": "1-ஆம் பதிலீட்டாளரால்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா புகார்தாரர்",
+      "correct": "1-ஆம் புகார்தாரர்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா புகார்தாரரரை",
+      "correct": "1-ஆம் புகார்தாரரரை",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா புகார்தாரருக்கு",
+      "correct": "1-ஆம் புகார்தாரருக்கு",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா புகார்தாரருக்கும்",
+      "correct": "1-ஆம் புகார்தாரருக்கும்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா புகார்தாரருடன்",
+      "correct": "1-ஆம் புகார்தாரருடன்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா புகார்தாரரரின்",
+      "correct": "1-ஆம் புகார்தாரரரின்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா புகார்தாரரரும்",
+      "correct": "1-ஆம் புகார்தாரரரும்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா புகார்தாரரரால்",
+      "correct": "1-ஆம் புகார்தாரரரால்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா புகார்தாரர்கள்",
+      "correct": "1-ஆம் புகார்தாரர்கள்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா புகார்தாரர்களை",
+      "correct": "1-ஆம் புகார்தாரர்களை",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா குற்றவாளி",
+      "correct": "1-ஆம் குற்றவாளி",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா குற்றவாளியை",
+      "correct": "1-ஆம் குற்றவாளியை",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா குற்றவாளிக்கு",
+      "correct": "1-ஆம் குற்றவாளிக்கு",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா குற்றவாளிக்கும்",
+      "correct": "1-ஆம் குற்றவாளிக்கும்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா குற்றவாளியின்",
+      "correct": "1-ஆம் குற்றவாளியின்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா குற்றவாளியும்",
+      "correct": "1-ஆம் குற்றவாளியும்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா குற்றவாளியால்",
+      "correct": "1-ஆம் குற்றவாளியால்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா குற்றவாளிகள்",
+      "correct": "1-ஆம் குற்றவாளிகள்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா குற்றவாளிகளை",
+      "correct": "1-ஆம் குற்றவாளிகளை",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா குற்றவாளிகளுக்கு",
+      "correct": "1-ஆம் குற்றவாளிகளுக்கு",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா குற்றவாளிகளால்",
+      "correct": "1-ஆம் குற்றவாளிகளால்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா சாட்சி",
+      "correct": "1-ஆம் சாட்சி",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா சாட்சியை",
+      "correct": "1-ஆம் சாட்சியை",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா சாட்சிக்கு",
+      "correct": "1-ஆம் சாட்சிக்கு",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா சாட்சியின்",
+      "correct": "1-ஆம் சாட்சியின்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா சாட்சியும்",
+      "correct": "1-ஆம் சாட்சியும்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா சாட்சிகள்",
+      "correct": "1-ஆம் சாட்சிகள்",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "உண்ணா சாட்சிகளை",
+      "correct": "1-ஆம் சாட்சிகளை",
+      "category": "ordinal_compressed_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    }
+  ]
+}

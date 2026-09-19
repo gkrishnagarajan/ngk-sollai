@@ -1,0 +1,39 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Backup files
+*.bak
+*.pre_*
+*_backup*.py
+*_pre_*.py
+*_pre_fix_*.py
+*_pre_series_*.py
+*_pre_final_*.py
+*_pre_logo_*.py
+*_pre_tnn_*.py
+*_pre_single_*.py
+*_with_auth.py
+app_integrated.py.pre_*
+
+# Old backups folder
+old_backups/
+assets_pre_*/
+
+# Large auto-generated rule files (kept in Data dir)
+tamil_rules_20260919_ordinal_pair_muttrum.json
+tamil_rules_20260919_ordinal_2_10.json
+tamil_rules_20260918_case_prefix_v2.json
+tamil_rules_20260919_paduthi_compounds.json
+tamil_rules_20260919_patri_compounds.json
+tamil_rules_20260918_peeril_aal_pugar.json
+
+# Databases (runtime data)
+databases/
+
+# Test data
+test_data/
+
+# Pycache
+*.egg-info/

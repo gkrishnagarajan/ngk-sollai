@@ -1,0 +1,28 @@
+{
+  "rules": [
+    {
+      "wrong": "களை பொருட்டு",
+      "correct": "களைப் பொறுத்து",
+      "category": "பொருட்டு_தவறான_சூழல்_திருத்தம்",
+      "confidence": 0.98,
+      "source": "grammar_rule",
+      "notes": "பொருட்டு misfire counter-rule: களை + பொறுத்து/பொருத்து was wrongly converted to பொருட்டு by 20260914 rule; restored to களைப் பொறுத்து; பொருட்டு = for the sake of (purpose); பொறுத்து = in respect of (accusative context)"
+    },
+    {
+      "wrong": "களைப் பொருட்டு",
+      "correct": "களைப் பொறுத்து",
+      "category": "பொருட்டு_தவறான_சூழல்_திருத்தம்",
+      "confidence": 0.98,
+      "source": "grammar_rule",
+      "notes": "same misfire scenario; input may have carried vallina ப் already"
+    },
+    {
+      "wrong": "களை பொறுத்து",
+      "correct": "களைப் பொறுத்து",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "ஐ-ஈறு + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; பொறுத்து here means in respect of, not purpose"
+    }
+  ]
+}

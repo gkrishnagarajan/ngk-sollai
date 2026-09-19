@@ -1,0 +1,220 @@
+{
+  "rules": [
+    {
+      "wrong": "இரண்டு வேலை",
+      "correct": "இரண்டு வேளை",
+      "category": "la_la_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "இரண்டு வேல",
+      "correct": "இரண்டு வேளை",
+      "category": "la_la_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "இரண்டு வேளா",
+      "correct": "இரண்டு வேளை",
+      "category": "la_la_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "மூன்று வேலை",
+      "correct": "மூன்று வேளை",
+      "category": "la_la_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "மூன்று வேல",
+      "correct": "மூன்று வேளை",
+      "category": "la_la_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "மூன்று வேளா",
+      "correct": "மூன்று வேளை",
+      "category": "la_la_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "நான்கு வேலை",
+      "correct": "நான்கு வேளை",
+      "category": "la_la_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "நான்கு வேல",
+      "correct": "நான்கு வேளை",
+      "category": "la_la_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "நான்கு வேளா",
+      "correct": "நான்கு வேளை",
+      "category": "la_la_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "ஐந்து வேலை",
+      "correct": "ஐந்து வேளை",
+      "category": "la_la_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "ஐந்து வேல",
+      "correct": "ஐந்து வேளை",
+      "category": "la_la_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "ஐந்து வேளா",
+      "correct": "ஐந்து வேளை",
+      "category": "la_la_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "இரு வேலை",
+      "correct": "இரு வேளை",
+      "category": "la_la_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "இரு வேல",
+      "correct": "இரு வேளை",
+      "category": "la_la_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "இரு வேளா",
+      "correct": "இரு வேளை",
+      "category": "la_la_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "2 வேலை",
+      "correct": "2 வேளை",
+      "category": "la_la_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "2 வேல",
+      "correct": "2 வேளை",
+      "category": "la_la_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "2 வேளா",
+      "correct": "2 வேளை",
+      "category": "la_la_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "3 வேலை",
+      "correct": "3 வேளை",
+      "category": "la_la_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "3 வேல",
+      "correct": "3 வேளை",
+      "category": "la_la_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "3 வேளா",
+      "correct": "3 வேளை",
+      "category": "la_la_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "4 வேலை",
+      "correct": "4 வேளை",
+      "category": "la_la_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "4 வேல",
+      "correct": "4 வேளை",
+      "category": "la_la_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "4 வேளா",
+      "correct": "4 வேளை",
+      "category": "la_la_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "5 வேலை",
+      "correct": "5 வேளை",
+      "category": "la_la_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "5 வேல",
+      "correct": "5 வேளை",
+      "category": "la_la_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "5 வேளா",
+      "correct": "5 வேளை",
+      "category": "la_la_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.95,
+      "source": "session_20260918"
+    }
+  ]
+}

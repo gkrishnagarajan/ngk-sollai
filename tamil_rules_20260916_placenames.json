@@ -1,0 +1,112 @@
+{
+  "rules": [
+    {
+      "wrong": "குணத்தூர் நகரம்",
+      "correct": "குன்னத்தூர் நகரம்",
+      "phrase_anchored": true,
+      "note": "ண→ன் mishear: குணத்தூர் நகரம்→குன்னத்தூர் நகரம்"
+    },
+    {
+      "wrong": "குணத்தூர்த் நகரம்",
+      "correct": "குன்னத்தூர் நகரம்",
+      "phrase_anchored": true,
+      "note": "ண→ன் + spurious punarchi: குணத்தூர்த் நகரம்→குன்னத்தூர் நகரம்"
+    },
+    {
+      "wrong": "குணத்தூர் கிராமம்",
+      "correct": "குன்னத்தூர் கிராமம்",
+      "phrase_anchored": true,
+      "note": "ண→ன் mishear: குணத்தூர் கிராமம்→குன்னத்தூர் கிராமம்"
+    },
+    {
+      "wrong": "குணத்தூர்த் கிராமம்",
+      "correct": "குன்னத்தூர் கிராமம்",
+      "phrase_anchored": true,
+      "note": "ண→ன் + spurious punarchi: குணத்தூர்த் கிராமம்→குன்னத்தூர் கிராமம்"
+    },
+    {
+      "wrong": "குணத்தூர் தெரு",
+      "correct": "குன்னத்தூர் தெரு",
+      "phrase_anchored": true,
+      "note": "ண→ன் mishear: குணத்தூர் தெரு→குன்னத்தூர் தெரு"
+    },
+    {
+      "wrong": "குணத்தூர்த் தெரு",
+      "correct": "குன்னத்தூர் தெரு",
+      "phrase_anchored": true,
+      "note": "ண→ன் + spurious punarchi: குணத்தூர்த் தெரு→குன்னத்தூர் தெரு"
+    },
+    {
+      "wrong": "குணத்தூர் சாலை",
+      "correct": "குன்னத்தூர் சாலை",
+      "phrase_anchored": true,
+      "note": "ண→ன் mishear: குணத்தூர் சாலை→குன்னத்தூர் சாலை"
+    },
+    {
+      "wrong": "குணத்தூர்த் சாலை",
+      "correct": "குன்னத்தூர் சாலை",
+      "phrase_anchored": true,
+      "note": "ண→ன் + spurious punarchi: குணத்தூர்த் சாலை→குன்னத்தூர் சாலை"
+    },
+    {
+      "wrong": "குணத்தூர் பகுதி",
+      "correct": "குன்னத்தூர் பகுதி",
+      "phrase_anchored": true,
+      "note": "ண→ன் mishear: குணத்தூர் பகுதி→குன்னத்தூர் பகுதி"
+    },
+    {
+      "wrong": "குணத்தூர்த் பகுதி",
+      "correct": "குன்னத்தூர் பகுதி",
+      "phrase_anchored": true,
+      "note": "ண→ன் + spurious punarchi: குணத்தூர்த் பகுதி→குன்னத்தூர் பகுதி"
+    },
+    {
+      "wrong": "குணத்தூர் மாவட்டம்",
+      "correct": "குன்னத்தூர் மாவட்டம்",
+      "phrase_anchored": true,
+      "note": "ண→ன் mishear: குணத்தூர் மாவட்டம்→குன்னத்தூர் மாவட்டம்"
+    },
+    {
+      "wrong": "குணத்தூர்த் மாவட்டம்",
+      "correct": "குன்னத்தூர் மாவட்டம்",
+      "phrase_anchored": true,
+      "note": "ண→ன் + spurious punarchi: குணத்தூர்த் மாவட்டம்→குன்னத்தூர் மாவட்டம்"
+    },
+    {
+      "wrong": "குணத்தூர் உள்ள",
+      "correct": "குன்னத்தூர் உள்ள",
+      "phrase_anchored": true,
+      "note": "ண→ன் mishear: குணத்தூர் உள்ள→குன்னத்தூர் உள்ள"
+    },
+    {
+      "wrong": "குணத்தூர்த் உள்ள",
+      "correct": "குன்னத்தூர் உள்ள",
+      "phrase_anchored": true,
+      "note": "ண→ன் + spurious punarchi: குணத்தூர்த் உள்ள→குன்னத்தூர் உள்ள"
+    },
+    {
+      "wrong": "குணத்தூர்",
+      "correct": "குன்னத்தூர்",
+      "phrase_anchored": true,
+      "note": "ண→ன் mishear: bare குணத்தூர்→குன்னத்தூர்"
+    },
+    {
+      "wrong": "குணத்தூர்த்",
+      "correct": "குன்னத்தூர்",
+      "phrase_anchored": true,
+      "note": "ண→ன் + spurious punarchi: bare குணத்தூர்த்→குன்னத்தூர்"
+    },
+    {
+      "wrong": "குணத்தூர்தவுன்",
+      "correct": "குன்னத்தூர் நகரம்",
+      "phrase_anchored": true,
+      "note": "ண→ன் + loanword தவுன்→நகரம்: குணத்தூர்தவுன்→குன்னத்தூர் நகரம்"
+    },
+    {
+      "wrong": "குணத்தூர் தவுன்",
+      "correct": "குன்னத்தூர் நகரம்",
+      "phrase_anchored": true,
+      "note": "ண→ன் + loanword தவுன்→நகரம் (spaced): குணத்தூர் தவுன்→குன்னத்தூர் நகரம்"
+    }
+  ]
+}

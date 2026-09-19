@@ -1,0 +1,52 @@
+{
+  "rules": [
+    {
+      "wrong": "மனுவனை",
+      "correct": "மனுவினை",
+      "category": "accusative_sandhi_error",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "மனுனை",
+      "correct": "மனுவினை",
+      "category": "accusative_sandhi_error",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "மனுவை",
+      "correct": "மனுவினை",
+      "category": "accusative_sandhi_error",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "மனுவனையும்",
+      "correct": "மனுவினையும்",
+      "category": "accusative_sandhi_error",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "மனுனையும்",
+      "correct": "மனுவினையும்",
+      "category": "accusative_sandhi_error",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "மனுவையும்",
+      "correct": "மனுவினையும்",
+      "category": "accusative_sandhi_error",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "family": "address",
+  "lane": "both",
+  "detectors": [
+    {
+      "id": "DOORNO",
+      "method": "regex",
+      "priority": 50,
+      "confidence": 0.85,
+      "pattern": "(?:Door\\s*No\\.?|D\\.?\\s*No\\.?|கதவு\\s*எண்)\\s*[:\\-]?\\s*([0-9A-Za-z/\\-]+)",
+      "group": 1
+    },
+    {
+      "id": "STREET",
+      "method": "regex",
+      "priority": 52,
+      "confidence": 0.7,
+      "pattern": "([^\\s,.;:()]+)\\s+(?:Street|street|தெரு)",
+      "group": 1
+    },
+    {
+      "id": "NAGAR",
+      "method": "regex",
+      "priority": 52,
+      "confidence": 0.7,
+      "pattern": "([^\\s,.;:()]+)\\s+(?:Nagar|nagar|நகர்)",
+      "group": 1
+    }
+  ]
+}

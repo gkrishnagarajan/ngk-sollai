@@ -1,0 +1,22 @@
+{
+  "family": "place",
+  "lane": "tamil",
+  "detectors": [
+    {
+      "id": "PLACE",
+      "token": "PLACE",
+      "method": "list",
+      "priority": 90,
+      "confidence": 0.85,
+      "list_file": "tn_districts.json"
+    },
+    {
+      "id": "STATION",
+      "token": "STATION",
+      "method": "list",
+      "priority": 88,
+      "confidence": 0.85,
+      "list_file": "tn_stations.json"
+    }
+  ]
+}

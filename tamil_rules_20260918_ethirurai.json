@@ -1,0 +1,132 @@
+{
+  "rules": [
+    {
+      "wrong": "எதிர் வரை",
+      "correct": "எதிருரை",
+      "category": "lexical_mishear_sandhi",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "எதிர்வரை",
+      "correct": "எதிருரை",
+      "category": "lexical_mishear_sandhi",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "எதிர் வாரை",
+      "correct": "எதிருரை",
+      "category": "lexical_mishear_sandhi",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "எதிர்வாரை",
+      "correct": "எதிருரை",
+      "category": "lexical_mishear_sandhi",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "எதிர் ஓரை",
+      "correct": "எதிருரை",
+      "category": "lexical_mishear_sandhi",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "எதிர்ஓரை",
+      "correct": "எதிருரை",
+      "category": "lexical_mishear_sandhi",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "எதிர் உரை",
+      "correct": "எதிருரை",
+      "category": "lexical_mishear_sandhi",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "எதிர்உரை",
+      "correct": "எதிருரை",
+      "category": "lexical_mishear_sandhi",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "எதிர் வரையில்",
+      "correct": "எதிருரையில்",
+      "category": "lexical_mishear_sandhi",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "எதிர்வரையில்",
+      "correct": "எதிருரையில்",
+      "category": "lexical_mishear_sandhi",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "எதிர் உரையில்",
+      "correct": "எதிருரையில்",
+      "category": "lexical_mishear_sandhi",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "எதிர்உரையில்",
+      "correct": "எதிருரையில்",
+      "category": "lexical_mishear_sandhi",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "எதிர் வரையை",
+      "correct": "எதிருரையை",
+      "category": "lexical_mishear_sandhi",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "எதிர்வரையை",
+      "correct": "எதிருரையை",
+      "category": "lexical_mishear_sandhi",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "எதிர் வரையின்",
+      "correct": "எதிருரையின்",
+      "category": "lexical_mishear_sandhi",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "எதிர்வரையின்",
+      "correct": "எதிருரையின்",
+      "category": "lexical_mishear_sandhi",
+      "phrase_anchored": false,
+      "confidence": 0.96,
+      "source": "session_20260918"
+    }
+  ]
+}

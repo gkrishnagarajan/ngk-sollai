@@ -1,0 +1,284 @@
+{
+  "rules": [
+    {
+      "wrong": "மனுதாரர்கள் கேட்கப்படவில்லை",
+      "correct": "மனுதாரர்களால் கேட்கப்படவில்லை",
+      "category": "ஆல்_வேற்றுமை_விடுபட்டது",
+      "confidence": 0.96,
+      "source": "grammar_rule",
+      "notes": "passive verb requires instrumental agent ஆல்; voice-typing drops ஆல் at breath pause before passive verb"
+    },
+    {
+      "wrong": "மனுதாரர்கள் கேட்கப்பட்டது",
+      "correct": "மனுதாரர்களால் கேட்கப்பட்டது",
+      "category": "ஆல்_வேற்றுமை_விடுபட்டது",
+      "confidence": 0.96,
+      "source": "grammar_rule",
+      "notes": "passive verb requires instrumental agent ஆல்; voice-typing drops ஆல் at breath pause before passive verb"
+    },
+    {
+      "wrong": "மனுதாரர்கள் கேட்கப்பட்டுள்ளது",
+      "correct": "மனுதாரர்களால் கேட்கப்பட்டுள்ளது",
+      "category": "ஆல்_வேற்றுமை_விடுபட்டது",
+      "confidence": 0.96,
+      "source": "grammar_rule",
+      "notes": "passive verb requires instrumental agent ஆல்; voice-typing drops ஆல் at breath pause before passive verb"
+    },
+    {
+      "wrong": "மனுதாரர்கள் கோரப்படவில்லை",
+      "correct": "மனுதாரர்களால் கோரப்படவில்லை",
+      "category": "ஆல்_வேற்றுமை_விடுபட்டது",
+      "confidence": 0.96,
+      "source": "grammar_rule",
+      "notes": "passive verb requires instrumental agent ஆல்; voice-typing drops ஆல் at breath pause before passive verb"
+    },
+    {
+      "wrong": "மனுதாரர்கள் கோரப்பட்டது",
+      "correct": "மனுதாரர்களால் கோரப்பட்டது",
+      "category": "ஆல்_வேற்றுமை_விடுபட்டது",
+      "confidence": 0.96,
+      "source": "grammar_rule",
+      "notes": "passive verb requires instrumental agent ஆல்; voice-typing drops ஆல் at breath pause before passive verb"
+    },
+    {
+      "wrong": "எதிர்மனுதாரர்கள் கேட்கப்படவில்லை",
+      "correct": "எதிர்மனுதாரர்களால் கேட்கப்படவில்லை",
+      "category": "ஆல்_வேற்றுமை_விடுபட்டது",
+      "confidence": 0.96,
+      "source": "grammar_rule",
+      "notes": "passive verb requires instrumental agent ஆல்; voice-typing drops ஆல் at breath pause before passive verb"
+    },
+    {
+      "wrong": "எதிர்மனுதாரர்கள் கேட்கப்பட்டது",
+      "correct": "எதிர்மனுதாரர்களால் கேட்கப்பட்டது",
+      "category": "ஆல்_வேற்றுமை_விடுபட்டது",
+      "confidence": 0.96,
+      "source": "grammar_rule",
+      "notes": "passive verb requires instrumental agent ஆல்; voice-typing drops ஆல் at breath pause before passive verb"
+    },
+    {
+      "wrong": "எதிர்மனுதாரர்கள் கேட்கப்பட்டுள்ளது",
+      "correct": "எதிர்மனுதாரர்களால் கேட்கப்பட்டுள்ளது",
+      "category": "ஆல்_வேற்றுமை_விடுபட்டது",
+      "confidence": 0.96,
+      "source": "grammar_rule",
+      "notes": "passive verb requires instrumental agent ஆல்; voice-typing drops ஆல் at breath pause before passive verb"
+    },
+    {
+      "wrong": "எதிர்மனுதாரர்கள் கோரப்படவில்லை",
+      "correct": "எதிர்மனுதாரர்களால் கோரப்படவில்லை",
+      "category": "ஆல்_வேற்றுமை_விடுபட்டது",
+      "confidence": 0.96,
+      "source": "grammar_rule",
+      "notes": "passive verb requires instrumental agent ஆல்; voice-typing drops ஆல் at breath pause before passive verb"
+    },
+    {
+      "wrong": "எதிர்மனுதாரர்கள் கோரப்பட்டது",
+      "correct": "எதிர்மனுதாரர்களால் கோரப்பட்டது",
+      "category": "ஆல்_வேற்றுமை_விடுபட்டது",
+      "confidence": 0.96,
+      "source": "grammar_rule",
+      "notes": "passive verb requires instrumental agent ஆல்; voice-typing drops ஆல் at breath pause before passive verb"
+    },
+    {
+      "wrong": "மேல்முறையீட்டாளர்கள் கேட்கப்படவில்லை",
+      "correct": "மேல்முறையீட்டாளர்களால் கேட்கப்படவில்லை",
+      "category": "ஆல்_வேற்றுமை_விடுபட்டது",
+      "confidence": 0.96,
+      "source": "grammar_rule",
+      "notes": "passive verb requires instrumental agent ஆல்; voice-typing drops ஆல் at breath pause before passive verb"
+    },
+    {
+      "wrong": "மேல்முறையீட்டாளர்கள் கேட்கப்பட்டது",
+      "correct": "மேல்முறையீட்டாளர்களால் கேட்கப்பட்டது",
+      "category": "ஆல்_வேற்றுமை_விடுபட்டது",
+      "confidence": 0.96,
+      "source": "grammar_rule",
+      "notes": "passive verb requires instrumental agent ஆல்; voice-typing drops ஆல் at breath pause before passive verb"
+    },
+    {
+      "wrong": "மேல்முறையீட்டாளர்கள் கேட்கப்பட்டுள்ளது",
+      "correct": "மேல்முறையீட்டாளர்களால் கேட்கப்பட்டுள்ளது",
+      "category": "ஆல்_வேற்றுமை_விடுபட்டது",
+      "confidence": 0.96,
+      "source": "grammar_rule",
+      "notes": "passive verb requires instrumental agent ஆல்; voice-typing drops ஆல் at breath pause before passive verb"
+    },
+    {
+      "wrong": "மேல்முறையீட்டாளர்கள் கோரப்படவில்லை",
+      "correct": "மேல்முறையீட்டாளர்களால் கோரப்படவில்லை",
+      "category": "ஆல்_வேற்றுமை_விடுபட்டது",
+      "confidence": 0.96,
+      "source": "grammar_rule",
+      "notes": "passive verb requires instrumental agent ஆல்; voice-typing drops ஆல் at breath pause before passive verb"
+    },
+    {
+      "wrong": "மேல்முறையீட்டாளர்கள் கோரப்பட்டது",
+      "correct": "மேல்முறையீட்டாளர்களால் கோரப்பட்டது",
+      "category": "ஆல்_வேற்றுமை_விடுபட்டது",
+      "confidence": 0.96,
+      "source": "grammar_rule",
+      "notes": "passive verb requires instrumental agent ஆல்; voice-typing drops ஆல் at breath pause before passive verb"
+    },
+    {
+      "wrong": "பதிலீட்டாளர்கள் கேட்கப்படவில்லை",
+      "correct": "பதிலீட்டாளர்களால் கேட்கப்படவில்லை",
+      "category": "ஆல்_வேற்றுமை_விடுபட்டது",
+      "confidence": 0.96,
+      "source": "grammar_rule",
+      "notes": "passive verb requires instrumental agent ஆல்; voice-typing drops ஆல் at breath pause before passive verb"
+    },
+    {
+      "wrong": "பதிலீட்டாளர்கள் கேட்கப்பட்டது",
+      "correct": "பதிலீட்டாளர்களால் கேட்கப்பட்டது",
+      "category": "ஆல்_வேற்றுமை_விடுபட்டது",
+      "confidence": 0.96,
+      "source": "grammar_rule",
+      "notes": "passive verb requires instrumental agent ஆல்; voice-typing drops ஆல் at breath pause before passive verb"
+    },
+    {
+      "wrong": "பதிலீட்டாளர்கள் கேட்கப்பட்டுள்ளது",
+      "correct": "பதிலீட்டாளர்களால் கேட்கப்பட்டுள்ளது",
+      "category": "ஆல்_வேற்றுமை_விடுபட்டது",
+      "confidence": 0.96,
+      "source": "grammar_rule",
+      "notes": "passive verb requires instrumental agent ஆல்; voice-typing drops ஆல் at breath pause before passive verb"
+    },
+    {
+      "wrong": "பதிலீட்டாளர்கள் கோரப்படவில்லை",
+      "correct": "பதிலீட்டாளர்களால் கோரப்படவில்லை",
+      "category": "ஆல்_வேற்றுமை_விடுபட்டது",
+      "confidence": 0.96,
+      "source": "grammar_rule",
+      "notes": "passive verb requires instrumental agent ஆல்; voice-typing drops ஆல் at breath pause before passive verb"
+    },
+    {
+      "wrong": "பதிலீட்டாளர்கள் கோரப்பட்டது",
+      "correct": "பதிலீட்டாளர்களால் கோரப்பட்டது",
+      "category": "ஆல்_வேற்றுமை_விடுபட்டது",
+      "confidence": 0.96,
+      "source": "grammar_rule",
+      "notes": "passive verb requires instrumental agent ஆல்; voice-typing drops ஆல் at breath pause before passive verb"
+    },
+    {
+      "wrong": "வாதிகள் கேட்கப்படவில்லை",
+      "correct": "வாதிகளால் கேட்கப்படவில்லை",
+      "category": "ஆல்_வேற்றுமை_விடுபட்டது",
+      "confidence": 0.96,
+      "source": "grammar_rule",
+      "notes": "passive verb requires instrumental agent ஆல்; voice-typing drops ஆல் at breath pause before passive verb"
+    },
+    {
+      "wrong": "வாதிகள் கேட்கப்பட்டது",
+      "correct": "வாதிகளால் கேட்கப்பட்டது",
+      "category": "ஆல்_வேற்றுமை_விடுபட்டது",
+      "confidence": 0.96,
+      "source": "grammar_rule",
+      "notes": "passive verb requires instrumental agent ஆல்; voice-typing drops ஆல் at breath pause before passive verb"
+    },
+    {
+      "wrong": "வாதிகள் கேட்கப்பட்டுள்ளது",
+      "correct": "வாதிகளால் கேட்கப்பட்டுள்ளது",
+      "category": "ஆல்_வேற்றுமை_விடுபட்டது",
+      "confidence": 0.96,
+      "source": "grammar_rule",
+      "notes": "passive verb requires instrumental agent ஆல்; voice-typing drops ஆல் at breath pause before passive verb"
+    },
+    {
+      "wrong": "வாதிகள் கோரப்படவில்லை",
+      "correct": "வாதிகளால் கோரப்படவில்லை",
+      "category": "ஆல்_வேற்றுமை_விடுபட்டது",
+      "confidence": 0.96,
+      "source": "grammar_rule",
+      "notes": "passive verb requires instrumental agent ஆல்; voice-typing drops ஆல் at breath pause before passive verb"
+    },
+    {
+      "wrong": "வாதிகள் கோரப்பட்டது",
+      "correct": "வாதிகளால் கோரப்பட்டது",
+      "category": "ஆல்_வேற்றுமை_விடுபட்டது",
+      "confidence": 0.96,
+      "source": "grammar_rule",
+      "notes": "passive verb requires instrumental agent ஆல்; voice-typing drops ஆல் at breath pause before passive verb"
+    },
+    {
+      "wrong": "பிரதிவாதிகள் கேட்கப்படவில்லை",
+      "correct": "பிரதிவாதிகளால் கேட்கப்படவில்லை",
+      "category": "ஆல்_வேற்றுமை_விடுபட்டது",
+      "confidence": 0.96,
+      "source": "grammar_rule",
+      "notes": "passive verb requires instrumental agent ஆல்; voice-typing drops ஆல் at breath pause before passive verb"
+    },
+    {
+      "wrong": "பிரதிவாதிகள் கேட்கப்பட்டது",
+      "correct": "பிரதிவாதிகளால் கேட்கப்பட்டது",
+      "category": "ஆல்_வேற்றுமை_விடுபட்டது",
+      "confidence": 0.96,
+      "source": "grammar_rule",
+      "notes": "passive verb requires instrumental agent ஆல்; voice-typing drops ஆல் at breath pause before passive verb"
+    },
+    {
+      "wrong": "பிரதிவாதிகள் கேட்கப்பட்டுள்ளது",
+      "correct": "பிரதிவாதிகளால் கேட்கப்பட்டுள்ளது",
+      "category": "ஆல்_வேற்றுமை_விடுபட்டது",
+      "confidence": 0.96,
+      "source": "grammar_rule",
+      "notes": "passive verb requires instrumental agent ஆல்; voice-typing drops ஆல் at breath pause before passive verb"
+    },
+    {
+      "wrong": "பிரதிவாதிகள் கோரப்படவில்லை",
+      "correct": "பிரதிவாதிகளால் கோரப்படவில்லை",
+      "category": "ஆல்_வேற்றுமை_விடுபட்டது",
+      "confidence": 0.96,
+      "source": "grammar_rule",
+      "notes": "passive verb requires instrumental agent ஆல்; voice-typing drops ஆல் at breath pause before passive verb"
+    },
+    {
+      "wrong": "பிரதிவாதிகள் கோரப்பட்டது",
+      "correct": "பிரதிவாதிகளால் கோரப்பட்டது",
+      "category": "ஆல்_வேற்றுமை_விடுபட்டது",
+      "confidence": 0.96,
+      "source": "grammar_rule",
+      "notes": "passive verb requires instrumental agent ஆல்; voice-typing drops ஆல் at breath pause before passive verb"
+    },
+    {
+      "wrong": "புகார்தாரர்கள் கேட்கப்படவில்லை",
+      "correct": "புகார்தாரர்களால் கேட்கப்படவில்லை",
+      "category": "ஆல்_வேற்றுமை_விடுபட்டது",
+      "confidence": 0.96,
+      "source": "grammar_rule",
+      "notes": "passive verb requires instrumental agent ஆல்; voice-typing drops ஆல் at breath pause before passive verb"
+    },
+    {
+      "wrong": "புகார்தாரர்கள் கேட்கப்பட்டது",
+      "correct": "புகார்தாரர்களால் கேட்கப்பட்டது",
+      "category": "ஆல்_வேற்றுமை_விடுபட்டது",
+      "confidence": 0.96,
+      "source": "grammar_rule",
+      "notes": "passive verb requires instrumental agent ஆல்; voice-typing drops ஆல் at breath pause before passive verb"
+    },
+    {
+      "wrong": "புகார்தாரர்கள் கேட்கப்பட்டுள்ளது",
+      "correct": "புகார்தாரர்களால் கேட்கப்பட்டுள்ளது",
+      "category": "ஆல்_வேற்றுமை_விடுபட்டது",
+      "confidence": 0.96,
+      "source": "grammar_rule",
+      "notes": "passive verb requires instrumental agent ஆல்; voice-typing drops ஆல் at breath pause before passive verb"
+    },
+    {
+      "wrong": "புகார்தாரர்கள் கோரப்படவில்லை",
+      "correct": "புகார்தாரர்களால் கோரப்படவில்லை",
+      "category": "ஆல்_வேற்றுமை_விடுபட்டது",
+      "confidence": 0.96,
+      "source": "grammar_rule",
+      "notes": "passive verb requires instrumental agent ஆல்; voice-typing drops ஆல் at breath pause before passive verb"
+    },
+    {
+      "wrong": "புகார்தாரர்கள் கோரப்பட்டது",
+      "correct": "புகார்தாரர்களால் கோரப்பட்டது",
+      "category": "ஆல்_வேற்றுமை_விடுபட்டது",
+      "confidence": 0.96,
+      "source": "grammar_rule",
+      "notes": "passive verb requires instrumental agent ஆல்; voice-typing drops ஆல் at breath pause before passive verb"
+    }
+  ]
+}

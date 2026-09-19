@@ -1,0 +1,359 @@
+[
+  {
+    "wrong": "சட்டப்பிரிவுகள் எனில்",
+    "correct": "சட்டப்பிரிவுகளின் கீழ்",
+    "category": "legal_postposition",
+    "phrase_anchored": true,
+    "confidence": 0.95
+  },
+  {
+    "wrong": "சட்டப்பிரிவுகள் என்னில்",
+    "correct": "சட்டப்பிரிவுகளின் கீழ்",
+    "category": "legal_postposition",
+    "phrase_anchored": true,
+    "confidence": 0.95
+  },
+  {
+    "wrong": "சட்டப்பிரிவுகள் இனில்",
+    "correct": "சட்டப்பிரிவுகளின் கீழ்",
+    "category": "legal_postposition",
+    "phrase_anchored": true,
+    "confidence": 0.95
+  },
+  {
+    "wrong": "சட்டப்பிரிவுகள் ஏனில்",
+    "correct": "சட்டப்பிரிவுகளின் கீழ்",
+    "category": "legal_postposition",
+    "phrase_anchored": true,
+    "confidence": 0.95
+  },
+  {
+    "wrong": "நங்கவல்லி",
+    "correct": "நங்கவள்ளி",
+    "category": "placename",
+    "phrase_anchored": false,
+    "confidence": 0.95
+  },
+  {
+    "wrong": "நங்கவல்லியில்",
+    "correct": "நங்கவள்ளியில்",
+    "category": "placename",
+    "phrase_anchored": false,
+    "confidence": 0.95
+  },
+  {
+    "wrong": "நங்கவல்லியிலிருந்து",
+    "correct": "நங்கவள்ளியிலிருந்து",
+    "category": "placename",
+    "phrase_anchored": false,
+    "confidence": 0.95
+  },
+  {
+    "wrong": "நங்கவல்லியை",
+    "correct": "நங்கவள்ளியை",
+    "category": "placename",
+    "phrase_anchored": false,
+    "confidence": 0.95
+  },
+  {
+    "wrong": "நங்கவல்லியின்",
+    "correct": "நங்கவள்ளியின்",
+    "category": "placename",
+    "phrase_anchored": false,
+    "confidence": 0.95
+  },
+  {
+    "wrong": "நங்கவல்லிக்கு",
+    "correct": "நங்கவள்ளிக்கு",
+    "category": "placename",
+    "phrase_anchored": false,
+    "confidence": 0.95
+  },
+  {
+    "wrong": "நங்கவல்லியிடம்",
+    "correct": "நங்கவள்ளியிடம்",
+    "category": "placename",
+    "phrase_anchored": false,
+    "confidence": 0.95
+  },
+  {
+    "wrong": "நங்கவல்லியும்",
+    "correct": "நங்கவள்ளியும்",
+    "category": "placename",
+    "phrase_anchored": false,
+    "confidence": 0.95
+  },
+  {
+    "wrong": "நங்கல்வி",
+    "correct": "நங்கவள்ளி",
+    "category": "placename",
+    "phrase_anchored": false,
+    "confidence": 0.95
+  },
+  {
+    "wrong": "நங்கல்வியில்",
+    "correct": "நங்கவள்ளியில்",
+    "category": "placename",
+    "phrase_anchored": false,
+    "confidence": 0.95
+  },
+  {
+    "wrong": "திப்பரெட்டி பேட்டை",
+    "correct": "திப்பிரெட்டிப்பட்டி",
+    "category": "placename",
+    "phrase_anchored": false,
+    "confidence": 0.95
+  },
+  {
+    "wrong": "திப்பரெட்டிப் பேட்டையில்",
+    "correct": "திப்பிரெட்டிப்பட்டியில்",
+    "category": "placename",
+    "phrase_anchored": false,
+    "confidence": 0.95
+  },
+  {
+    "wrong": "திப்பரெட்டி பேட்டையிலிருந்து",
+    "correct": "திப்பிரெட்டிப்பட்டியிலிருந்து",
+    "category": "placename",
+    "phrase_anchored": false,
+    "confidence": 0.95
+  },
+  {
+    "wrong": "திப்பரெட்டி பேட்டையை",
+    "correct": "திப்பிரெட்டிப்பட்டியை",
+    "category": "placename",
+    "phrase_anchored": false,
+    "confidence": 0.95
+  },
+  {
+    "wrong": "திப்பரெட்டி பேட்டையின்",
+    "correct": "திப்பிரெட்டிப்பட்டியின்",
+    "category": "placename",
+    "phrase_anchored": false,
+    "confidence": 0.95
+  },
+  {
+    "wrong": "திப்பரெட்டி பேட்டைக்கு",
+    "correct": "திப்பிரெட்டிப்பட்டிக்கு",
+    "category": "placename",
+    "phrase_anchored": false,
+    "confidence": 0.95
+  },
+  {
+    "wrong": "திப்பிரெட்டி பேட்டை",
+    "correct": "திப்பிரெட்டிப்பட்டி",
+    "category": "placename",
+    "phrase_anchored": false,
+    "confidence": 0.95
+  },
+  {
+    "wrong": "திப்பிரெட்டி பேட்டையில்",
+    "correct": "திப்பிரெட்டிப்பட்டியில்",
+    "category": "placename",
+    "phrase_anchored": false,
+    "confidence": 0.95
+  },
+  {
+    "wrong": "திப்பெரட்டி பேட்டை",
+    "correct": "திப்பிரெட்டிப்பட்டி",
+    "category": "placename",
+    "phrase_anchored": false,
+    "confidence": 0.95
+  },
+  {
+    "wrong": "திப்பரட்டி பட்டி",
+    "correct": "திப்பிரெட்டிப்பட்டி",
+    "category": "placename",
+    "phrase_anchored": false,
+    "confidence": 0.95
+  },
+  {
+    "wrong": "திப்பரெட்டிப்பட்டி",
+    "correct": "திப்பிரெட்டிப்பட்டி",
+    "category": "placename",
+    "phrase_anchored": false,
+    "confidence": 0.95
+  },
+  {
+    "wrong": "தொப்பைக்கமண்டன் வளவில்",
+    "correct": "தொப்பக்கவுண்டன்வளவில்",
+    "category": "placename",
+    "phrase_anchored": true,
+    "confidence": 0.93
+  },
+  {
+    "wrong": "தொப்பக்க மண்டன் வளவில்",
+    "correct": "தொப்பக்கவுண்டன்வளவில்",
+    "category": "placename",
+    "phrase_anchored": true,
+    "confidence": 0.93
+  },
+  {
+    "wrong": "தொப்பக்கவுண்டன் வளவில்",
+    "correct": "தொப்பக்கவுண்டன்வளவில்",
+    "category": "placename",
+    "phrase_anchored": true,
+    "confidence": 0.93
+  },
+  {
+    "wrong": "தொப்பைக்கவுண்டன் வளவில்",
+    "correct": "தொப்பக்கவுண்டன்வளவில்",
+    "category": "placename",
+    "phrase_anchored": true,
+    "confidence": 0.93
+  },
+  {
+    "wrong": "தொப்பக்கமண்டன் வளவில்",
+    "correct": "தொப்பக்கவுண்டன்வளவில்",
+    "category": "placename",
+    "phrase_anchored": true,
+    "confidence": 0.93
+  },
+  {
+    "wrong": "கட்ட வார்த்தைகளால்",
+    "correct": "கெட்ட வார்த்தைகளால்",
+    "category": "spelling",
+    "phrase_anchored": true,
+    "confidence": 0.95
+  },
+  {
+    "wrong": "கத்த வார்த்தைகளால்",
+    "correct": "கெட்ட வார்த்தைகளால்",
+    "category": "spelling",
+    "phrase_anchored": true,
+    "confidence": 0.95
+  },
+  {
+    "wrong": "கட்ட வாத்திகளால்",
+    "correct": "கெட்ட வார்த்தைகளால்",
+    "category": "spelling",
+    "phrase_anchored": true,
+    "confidence": 0.95
+  },
+  {
+    "wrong": "கந்தமால்",
+    "correct": "கந்தம்மாள்",
+    "category": "proper_noun_person",
+    "phrase_anchored": false,
+    "confidence": 0.95
+  },
+  {
+    "wrong": "கந்தமாலை",
+    "correct": "கந்தம்மாளை",
+    "category": "proper_noun_person",
+    "phrase_anchored": false,
+    "confidence": 0.95
+  },
+  {
+    "wrong": "கந்தமாலுக்கு",
+    "correct": "கந்தம்மாளுக்கு",
+    "category": "proper_noun_person",
+    "phrase_anchored": false,
+    "confidence": 0.95
+  },
+  {
+    "wrong": "கந்தமாலிடம்",
+    "correct": "கந்தம்மாளிடம்",
+    "category": "proper_noun_person",
+    "phrase_anchored": false,
+    "confidence": 0.95
+  },
+  {
+    "wrong": "கந்தமாலிடமிருந்து",
+    "correct": "கந்தம்மாளிடமிருந்து",
+    "category": "proper_noun_person",
+    "phrase_anchored": false,
+    "confidence": 0.95
+  },
+  {
+    "wrong": "கந்தமாலினால்",
+    "correct": "கந்தம்மாளினால்",
+    "category": "proper_noun_person",
+    "phrase_anchored": false,
+    "confidence": 0.95
+  },
+  {
+    "wrong": "கந்தமாலால்",
+    "correct": "கந்தம்மாளால்",
+    "category": "proper_noun_person",
+    "phrase_anchored": false,
+    "confidence": 0.95
+  },
+  {
+    "wrong": "கந்தமாலின்",
+    "correct": "கந்தம்மாளின்",
+    "category": "proper_noun_person",
+    "phrase_anchored": false,
+    "confidence": 0.95
+  },
+  {
+    "wrong": "கந்தமாலும்",
+    "correct": "கந்தம்மாளும்",
+    "category": "proper_noun_person",
+    "phrase_anchored": false,
+    "confidence": 0.95
+  },
+  {
+    "wrong": "எதிரிகளுக்கும்",
+    "correct": "குற்றஞ்சாட்டப்பட்ட நபர்களுக்கும்",
+    "category": "judicial_terminology",
+    "phrase_anchored": false,
+    "confidence": 0.97
+  },
+  {
+    "wrong": "எதிரிகளுக்கு",
+    "correct": "குற்றஞ்சாட்டப்பட்ட நபர்களுக்கு",
+    "category": "judicial_terminology",
+    "phrase_anchored": false,
+    "confidence": 0.97
+  },
+  {
+    "wrong": "எதிரியினால்",
+    "correct": "குற்றஞ்சாட்டப்பட்ட நபரினால்",
+    "category": "judicial_terminology",
+    "phrase_anchored": false,
+    "confidence": 0.97
+  },
+  {
+    "wrong": "எதிரிகளால்",
+    "correct": "குற்றஞ்சாட்டப்பட்ட நபர்களால்",
+    "category": "judicial_terminology",
+    "phrase_anchored": false,
+    "confidence": 0.97
+  },
+  {
+    "wrong": "எதிரியை",
+    "correct": "குற்றஞ்சாட்டப்பட்ட நபரை",
+    "category": "judicial_terminology",
+    "phrase_anchored": false,
+    "confidence": 0.97
+  },
+  {
+    "wrong": "இரசீது எண்",
+    "correct": "இரசீது எண்.",
+    "category": "punctuation",
+    "phrase_anchored": true,
+    "confidence": 0.97
+  },
+  {
+    "wrong": "ரசீது எண்",
+    "correct": "இரசீது எண்.",
+    "category": "punctuation",
+    "phrase_anchored": true,
+    "confidence": 0.97
+  },
+  {
+    "wrong": "இரடீது எண்",
+    "correct": "இரசீது எண்.",
+    "category": "punctuation",
+    "phrase_anchored": true,
+    "confidence": 0.97
+  },
+  {
+    "wrong": "இரசீது எண்ணம்",
+    "correct": "இரசீது எண்.",
+    "category": "punctuation",
+    "phrase_anchored": true,
+    "confidence": 0.97
+  }
+]

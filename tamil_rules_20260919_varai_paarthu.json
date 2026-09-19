@@ -1,0 +1,1668 @@
+{
+  "rules": [
+    {
+      "wrong": "அவரை பார்த்து",
+      "correct": "அவரைப் பார்த்து",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அவரை பார்த்துவிட்டு",
+      "correct": "அவரைப் பார்த்துவிட்டு",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அவரை பார்த்துவிட்டார்",
+      "correct": "அவரைப் பார்த்துவிட்டார்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அவரை பார்த்துவிட்டாள்",
+      "correct": "அவரைப் பார்த்துவிட்டாள்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அவரை பார்த்துவிட்டனர்",
+      "correct": "அவரைப் பார்த்துவிட்டனர்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அவரை பார்த்தார்",
+      "correct": "அவரைப் பார்த்தார்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அவரை பார்த்தாள்",
+      "correct": "அவரைப் பார்த்தாள்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அவரை பார்த்தனர்",
+      "correct": "அவரைப் பார்த்தனர்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அவரை பார்த்தான்",
+      "correct": "அவரைப் பார்த்தான்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அவரை பார்த்துக்கொண்டு",
+      "correct": "அவரைப் பார்த்துக்கொண்டு",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அவரை பார்க்க",
+      "correct": "அவரைப் பார்க்க",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அவரை பார்க்கும்",
+      "correct": "அவரைப் பார்க்கும்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அவரை பார்க்கவில்லை",
+      "correct": "அவரைப் பார்க்கவில்லை",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அவளை பார்த்து",
+      "correct": "அவளைப் பார்த்து",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அவளை பார்த்துவிட்டு",
+      "correct": "அவளைப் பார்த்துவிட்டு",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அவளை பார்த்துவிட்டார்",
+      "correct": "அவளைப் பார்த்துவிட்டார்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அவளை பார்த்துவிட்டாள்",
+      "correct": "அவளைப் பார்த்துவிட்டாள்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அவளை பார்த்துவிட்டனர்",
+      "correct": "அவளைப் பார்த்துவிட்டனர்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அவளை பார்த்தார்",
+      "correct": "அவளைப் பார்த்தார்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அவளை பார்த்தாள்",
+      "correct": "அவளைப் பார்த்தாள்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அவளை பார்த்தனர்",
+      "correct": "அவளைப் பார்த்தனர்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அவளை பார்த்தான்",
+      "correct": "அவளைப் பார்த்தான்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அவளை பார்த்துக்கொண்டு",
+      "correct": "அவளைப் பார்த்துக்கொண்டு",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அவளை பார்க்க",
+      "correct": "அவளைப் பார்க்க",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அவளை பார்க்கும்",
+      "correct": "அவளைப் பார்க்கும்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அவளை பார்க்கவில்லை",
+      "correct": "அவளைப் பார்க்கவில்லை",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அவனை பார்த்து",
+      "correct": "அவனைப் பார்த்து",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அவனை பார்த்துவிட்டு",
+      "correct": "அவனைப் பார்த்துவிட்டு",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அவனை பார்த்துவிட்டார்",
+      "correct": "அவனைப் பார்த்துவிட்டார்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அவனை பார்த்துவிட்டாள்",
+      "correct": "அவனைப் பார்த்துவிட்டாள்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அவனை பார்த்துவிட்டனர்",
+      "correct": "அவனைப் பார்த்துவிட்டனர்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அவனை பார்த்தார்",
+      "correct": "அவனைப் பார்த்தார்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அவனை பார்த்தாள்",
+      "correct": "அவனைப் பார்த்தாள்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அவனை பார்த்தனர்",
+      "correct": "அவனைப் பார்த்தனர்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அவனை பார்த்தான்",
+      "correct": "அவனைப் பார்த்தான்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அவனை பார்த்துக்கொண்டு",
+      "correct": "அவனைப் பார்த்துக்கொண்டு",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அவனை பார்க்க",
+      "correct": "அவனைப் பார்க்க",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அவனை பார்க்கும்",
+      "correct": "அவனைப் பார்க்கும்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அவனை பார்க்கவில்லை",
+      "correct": "அவனைப் பார்க்கவில்லை",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "தன்னை பார்த்து",
+      "correct": "தன்னைப் பார்த்து",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "தன்னை பார்த்துவிட்டு",
+      "correct": "தன்னைப் பார்த்துவிட்டு",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "தன்னை பார்த்துவிட்டார்",
+      "correct": "தன்னைப் பார்த்துவிட்டார்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "தன்னை பார்த்துவிட்டாள்",
+      "correct": "தன்னைப் பார்த்துவிட்டாள்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "தன்னை பார்த்துவிட்டனர்",
+      "correct": "தன்னைப் பார்த்துவிட்டனர்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "தன்னை பார்த்தார்",
+      "correct": "தன்னைப் பார்த்தார்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "தன்னை பார்த்தாள்",
+      "correct": "தன்னைப் பார்த்தாள்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "தன்னை பார்த்தனர்",
+      "correct": "தன்னைப் பார்த்தனர்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "தன்னை பார்த்தான்",
+      "correct": "தன்னைப் பார்த்தான்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "தன்னை பார்த்துக்கொண்டு",
+      "correct": "தன்னைப் பார்த்துக்கொண்டு",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "தன்னை பார்க்க",
+      "correct": "தன்னைப் பார்க்க",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "தன்னை பார்க்கும்",
+      "correct": "தன்னைப் பார்க்கும்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "தன்னை பார்க்கவில்லை",
+      "correct": "தன்னைப் பார்க்கவில்லை",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "என்னை பார்த்து",
+      "correct": "என்னைப் பார்த்து",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "என்னை பார்த்துவிட்டு",
+      "correct": "என்னைப் பார்த்துவிட்டு",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "என்னை பார்த்துவிட்டார்",
+      "correct": "என்னைப் பார்த்துவிட்டார்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "என்னை பார்த்துவிட்டாள்",
+      "correct": "என்னைப் பார்த்துவிட்டாள்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "என்னை பார்த்துவிட்டனர்",
+      "correct": "என்னைப் பார்த்துவிட்டனர்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "என்னை பார்த்தார்",
+      "correct": "என்னைப் பார்த்தார்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "என்னை பார்த்தாள்",
+      "correct": "என்னைப் பார்த்தாள்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "என்னை பார்த்தனர்",
+      "correct": "என்னைப் பார்த்தனர்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "என்னை பார்த்தான்",
+      "correct": "என்னைப் பார்த்தான்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "என்னை பார்த்துக்கொண்டு",
+      "correct": "என்னைப் பார்த்துக்கொண்டு",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "என்னை பார்க்க",
+      "correct": "என்னைப் பார்க்க",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "என்னை பார்க்கும்",
+      "correct": "என்னைப் பார்க்கும்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "என்னை பார்க்கவில்லை",
+      "correct": "என்னைப் பார்க்கவில்லை",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "உன்னை பார்த்து",
+      "correct": "உன்னைப் பார்த்து",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "உன்னை பார்த்துவிட்டு",
+      "correct": "உன்னைப் பார்த்துவிட்டு",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "உன்னை பார்த்துவிட்டார்",
+      "correct": "உன்னைப் பார்த்துவிட்டார்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "உன்னை பார்த்துவிட்டாள்",
+      "correct": "உன்னைப் பார்த்துவிட்டாள்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "உன்னை பார்த்துவிட்டனர்",
+      "correct": "உன்னைப் பார்த்துவிட்டனர்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "உன்னை பார்த்தார்",
+      "correct": "உன்னைப் பார்த்தார்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "உன்னை பார்த்தாள்",
+      "correct": "உன்னைப் பார்த்தாள்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "உன்னை பார்த்தனர்",
+      "correct": "உன்னைப் பார்த்தனர்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "உன்னை பார்த்தான்",
+      "correct": "உன்னைப் பார்த்தான்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "உன்னை பார்த்துக்கொண்டு",
+      "correct": "உன்னைப் பார்த்துக்கொண்டு",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "உன்னை பார்க்க",
+      "correct": "உன்னைப் பார்க்க",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "உன்னை பார்க்கும்",
+      "correct": "உன்னைப் பார்க்கும்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "உன்னை பார்க்கவில்லை",
+      "correct": "உன்னைப் பார்க்கவில்லை",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அதை பார்த்து",
+      "correct": "அதைப் பார்த்து",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அதை பார்த்துவிட்டு",
+      "correct": "அதைப் பார்த்துவிட்டு",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அதை பார்த்துவிட்டார்",
+      "correct": "அதைப் பார்த்துவிட்டார்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அதை பார்த்துவிட்டாள்",
+      "correct": "அதைப் பார்த்துவிட்டாள்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அதை பார்த்துவிட்டனர்",
+      "correct": "அதைப் பார்த்துவிட்டனர்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அதை பார்த்தார்",
+      "correct": "அதைப் பார்த்தார்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அதை பார்த்தாள்",
+      "correct": "அதைப் பார்த்தாள்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அதை பார்த்தனர்",
+      "correct": "அதைப் பார்த்தனர்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அதை பார்த்தான்",
+      "correct": "அதைப் பார்த்தான்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அதை பார்த்துக்கொண்டு",
+      "correct": "அதைப் பார்த்துக்கொண்டு",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அதை பார்க்க",
+      "correct": "அதைப் பார்க்க",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அதை பார்க்கும்",
+      "correct": "அதைப் பார்க்கும்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "அதை பார்க்கவில்லை",
+      "correct": "அதைப் பார்க்கவில்லை",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "இதை பார்த்து",
+      "correct": "இதைப் பார்த்து",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "இதை பார்த்துவிட்டு",
+      "correct": "இதைப் பார்த்துவிட்டு",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "இதை பார்த்துவிட்டார்",
+      "correct": "இதைப் பார்த்துவிட்டார்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "இதை பார்த்துவிட்டாள்",
+      "correct": "இதைப் பார்த்துவிட்டாள்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "இதை பார்த்துவிட்டனர்",
+      "correct": "இதைப் பார்த்துவிட்டனர்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "இதை பார்த்தார்",
+      "correct": "இதைப் பார்த்தார்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "இதை பார்த்தாள்",
+      "correct": "இதைப் பார்த்தாள்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "இதை பார்த்தனர்",
+      "correct": "இதைப் பார்த்தனர்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "இதை பார்த்தான்",
+      "correct": "இதைப் பார்த்தான்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "இதை பார்த்துக்கொண்டு",
+      "correct": "இதைப் பார்த்துக்கொண்டு",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "இதை பார்க்க",
+      "correct": "இதைப் பார்க்க",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "இதை பார்க்கும்",
+      "correct": "இதைப் பார்க்கும்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "இதை பார்க்கவில்லை",
+      "correct": "இதைப் பார்க்கவில்லை",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "சாட்சியை பார்த்து",
+      "correct": "சாட்சியைப் பார்த்து",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "சாட்சியை பார்த்துவிட்டு",
+      "correct": "சாட்சியைப் பார்த்துவிட்டு",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "சாட்சியை பார்த்துவிட்டார்",
+      "correct": "சாட்சியைப் பார்த்துவிட்டார்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "சாட்சியை பார்த்துவிட்டாள்",
+      "correct": "சாட்சியைப் பார்த்துவிட்டாள்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "சாட்சியை பார்த்துவிட்டனர்",
+      "correct": "சாட்சியைப் பார்த்துவிட்டனர்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "சாட்சியை பார்த்தார்",
+      "correct": "சாட்சியைப் பார்த்தார்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "சாட்சியை பார்த்தாள்",
+      "correct": "சாட்சியைப் பார்த்தாள்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "சாட்சியை பார்த்தனர்",
+      "correct": "சாட்சியைப் பார்த்தனர்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "சாட்சியை பார்த்தான்",
+      "correct": "சாட்சியைப் பார்த்தான்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "சாட்சியை பார்த்துக்கொண்டு",
+      "correct": "சாட்சியைப் பார்த்துக்கொண்டு",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "சாட்சியை பார்க்க",
+      "correct": "சாட்சியைப் பார்க்க",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "சாட்சியை பார்க்கும்",
+      "correct": "சாட்சியைப் பார்க்கும்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "சாட்சியை பார்க்கவில்லை",
+      "correct": "சாட்சியைப் பார்க்கவில்லை",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "பாதிக்கப்பட்டவரை பார்த்து",
+      "correct": "பாதிக்கப்பட்டவரைப் பார்த்து",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "பாதிக்கப்பட்டவரை பார்த்துவிட்டு",
+      "correct": "பாதிக்கப்பட்டவரைப் பார்த்துவிட்டு",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "பாதிக்கப்பட்டவரை பார்த்துவிட்டார்",
+      "correct": "பாதிக்கப்பட்டவரைப் பார்த்துவிட்டார்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "பாதிக்கப்பட்டவரை பார்த்துவிட்டாள்",
+      "correct": "பாதிக்கப்பட்டவரைப் பார்த்துவிட்டாள்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "பாதிக்கப்பட்டவரை பார்த்துவிட்டனர்",
+      "correct": "பாதிக்கப்பட்டவரைப் பார்த்துவிட்டனர்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "பாதிக்கப்பட்டவரை பார்த்தார்",
+      "correct": "பாதிக்கப்பட்டவரைப் பார்த்தார்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "பாதிக்கப்பட்டவரை பார்த்தாள்",
+      "correct": "பாதிக்கப்பட்டவரைப் பார்த்தாள்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "பாதிக்கப்பட்டவரை பார்த்தனர்",
+      "correct": "பாதிக்கப்பட்டவரைப் பார்த்தனர்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "பாதிக்கப்பட்டவரை பார்த்தான்",
+      "correct": "பாதிக்கப்பட்டவரைப் பார்த்தான்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "பாதிக்கப்பட்டவரை பார்த்துக்கொண்டு",
+      "correct": "பாதிக்கப்பட்டவரைப் பார்த்துக்கொண்டு",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "பாதிக்கப்பட்டவரை பார்க்க",
+      "correct": "பாதிக்கப்பட்டவரைப் பார்க்க",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "பாதிக்கப்பட்டவரை பார்க்கும்",
+      "correct": "பாதிக்கப்பட்டவரைப் பார்க்கும்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "பாதிக்கப்பட்டவரை பார்க்கவில்லை",
+      "correct": "பாதிக்கப்பட்டவரைப் பார்க்கவில்லை",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "குற்றவாளியை பார்த்து",
+      "correct": "குற்றவாளியைப் பார்த்து",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "குற்றவாளியை பார்த்துவிட்டு",
+      "correct": "குற்றவாளியைப் பார்த்துவிட்டு",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "குற்றவாளியை பார்த்துவிட்டார்",
+      "correct": "குற்றவாளியைப் பார்த்துவிட்டார்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "குற்றவாளியை பார்த்துவிட்டாள்",
+      "correct": "குற்றவாளியைப் பார்த்துவிட்டாள்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "குற்றவாளியை பார்த்துவிட்டனர்",
+      "correct": "குற்றவாளியைப் பார்த்துவிட்டனர்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "குற்றவாளியை பார்த்தார்",
+      "correct": "குற்றவாளியைப் பார்த்தார்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "குற்றவாளியை பார்த்தாள்",
+      "correct": "குற்றவாளியைப் பார்த்தாள்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "குற்றவாளியை பார்த்தனர்",
+      "correct": "குற்றவாளியைப் பார்த்தனர்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "குற்றவாளியை பார்த்தான்",
+      "correct": "குற்றவாளியைப் பார்த்தான்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "குற்றவாளியை பார்த்துக்கொண்டு",
+      "correct": "குற்றவாளியைப் பார்த்துக்கொண்டு",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "குற்றவாளியை பார்க்க",
+      "correct": "குற்றவாளியைப் பார்க்க",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "குற்றவாளியை பார்க்கும்",
+      "correct": "குற்றவாளியைப் பார்க்கும்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "குற்றவாளியை பார்க்கவில்லை",
+      "correct": "குற்றவாளியைப் பார்க்கவில்லை",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "மனுதாரரை பார்த்து",
+      "correct": "மனுதாரரைப் பார்த்து",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "மனுதாரரை பார்த்துவிட்டு",
+      "correct": "மனுதாரரைப் பார்த்துவிட்டு",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "மனுதாரரை பார்த்துவிட்டார்",
+      "correct": "மனுதாரரைப் பார்த்துவிட்டார்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "மனுதாரரை பார்த்துவிட்டாள்",
+      "correct": "மனுதாரரைப் பார்த்துவிட்டாள்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "மனுதாரரை பார்த்துவிட்டனர்",
+      "correct": "மனுதாரரைப் பார்த்துவிட்டனர்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "மனுதாரரை பார்த்தார்",
+      "correct": "மனுதாரரைப் பார்த்தார்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "மனுதாரரை பார்த்தாள்",
+      "correct": "மனுதாரரைப் பார்த்தாள்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "மனுதாரரை பார்த்தனர்",
+      "correct": "மனுதாரரைப் பார்த்தனர்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "மனுதாரரை பார்த்தான்",
+      "correct": "மனுதாரரைப் பார்த்தான்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "மனுதாரரை பார்த்துக்கொண்டு",
+      "correct": "மனுதாரரைப் பார்த்துக்கொண்டு",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "மனுதாரரை பார்க்க",
+      "correct": "மனுதாரரைப் பார்க்க",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "மனுதாரரை பார்க்கும்",
+      "correct": "மனுதாரரைப் பார்க்கும்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "மனுதாரரை பார்க்கவில்லை",
+      "correct": "மனுதாரரைப் பார்க்கவில்லை",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "எதிர்மனுதாரரை பார்த்து",
+      "correct": "எதிர்மனுதாரரைப் பார்த்து",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "எதிர்மனுதாரரை பார்த்துவிட்டு",
+      "correct": "எதிர்மனுதாரரைப் பார்த்துவிட்டு",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "எதிர்மனுதாரரை பார்த்துவிட்டார்",
+      "correct": "எதிர்மனுதாரரைப் பார்த்துவிட்டார்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "எதிர்மனுதாரரை பார்த்துவிட்டாள்",
+      "correct": "எதிர்மனுதாரரைப் பார்த்துவிட்டாள்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "எதிர்மனுதாரரை பார்த்துவிட்டனர்",
+      "correct": "எதிர்மனுதாரரைப் பார்த்துவிட்டனர்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "எதிர்மனுதாரரை பார்த்தார்",
+      "correct": "எதிர்மனுதாரரைப் பார்த்தார்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "எதிர்மனுதாரரை பார்த்தாள்",
+      "correct": "எதிர்மனுதாரரைப் பார்த்தாள்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "எதிர்மனுதாரரை பார்த்தனர்",
+      "correct": "எதிர்மனுதாரரைப் பார்த்தனர்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "எதிர்மனுதாரரை பார்த்தான்",
+      "correct": "எதிர்மனுதாரரைப் பார்த்தான்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "எதிர்மனுதாரரை பார்த்துக்கொண்டு",
+      "correct": "எதிர்மனுதாரரைப் பார்த்துக்கொண்டு",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "எதிர்மனுதாரரை பார்க்க",
+      "correct": "எதிர்மனுதாரரைப் பார்க்க",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "எதிர்மனுதாரரை பார்க்கும்",
+      "correct": "எதிர்மனுதாரரைப் பார்க்கும்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "எதிர்மனுதாரரை பார்க்கவில்லை",
+      "correct": "எதிர்மனுதாரரைப் பார்க்கவில்லை",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "புகார்தாரரை பார்த்து",
+      "correct": "புகார்தாரரைப் பார்த்து",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "புகார்தாரரை பார்த்துவிட்டு",
+      "correct": "புகார்தாரரைப் பார்த்துவிட்டு",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "புகார்தாரரை பார்த்துவிட்டார்",
+      "correct": "புகார்தாரரைப் பார்த்துவிட்டார்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "புகார்தாரரை பார்த்துவிட்டாள்",
+      "correct": "புகார்தாரரைப் பார்த்துவிட்டாள்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "புகார்தாரரை பார்த்துவிட்டனர்",
+      "correct": "புகார்தாரரைப் பார்த்துவிட்டனர்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "புகார்தாரரை பார்த்தார்",
+      "correct": "புகார்தாரரைப் பார்த்தார்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "புகார்தாரரை பார்த்தாள்",
+      "correct": "புகார்தாரரைப் பார்த்தாள்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "புகார்தாரரை பார்த்தனர்",
+      "correct": "புகார்தாரரைப் பார்த்தனர்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "புகார்தாரரை பார்த்தான்",
+      "correct": "புகார்தாரரைப் பார்த்தான்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "புகார்தாரரை பார்த்துக்கொண்டு",
+      "correct": "புகார்தாரரைப் பார்த்துக்கொண்டு",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "புகார்தாரரை பார்க்க",
+      "correct": "புகார்தாரரைப் பார்க்க",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "புகார்தாரரை பார்க்கும்",
+      "correct": "புகார்தாரரைப் பார்க்கும்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "புகார்தாரரை பார்க்கவில்லை",
+      "correct": "புகார்தாரரைப் பார்க்கவில்லை",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "பிரதிவாதியை பார்த்து",
+      "correct": "பிரதிவாதியைப் பார்த்து",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "பிரதிவாதியை பார்த்துவிட்டு",
+      "correct": "பிரதிவாதியைப் பார்த்துவிட்டு",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "பிரதிவாதியை பார்த்துவிட்டார்",
+      "correct": "பிரதிவாதியைப் பார்த்துவிட்டார்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "பிரதிவாதியை பார்த்துவிட்டாள்",
+      "correct": "பிரதிவாதியைப் பார்த்துவிட்டாள்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "பிரதிவாதியை பார்த்துவிட்டனர்",
+      "correct": "பிரதிவாதியைப் பார்த்துவிட்டனர்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "பிரதிவாதியை பார்த்தார்",
+      "correct": "பிரதிவாதியைப் பார்த்தார்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "பிரதிவாதியை பார்த்தாள்",
+      "correct": "பிரதிவாதியைப் பார்த்தாள்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "பிரதிவாதியை பார்த்தனர்",
+      "correct": "பிரதிவாதியைப் பார்த்தனர்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "பிரதிவாதியை பார்த்தான்",
+      "correct": "பிரதிவாதியைப் பார்த்தான்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "பிரதிவாதியை பார்த்துக்கொண்டு",
+      "correct": "பிரதிவாதியைப் பார்த்துக்கொண்டு",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "பிரதிவாதியை பார்க்க",
+      "correct": "பிரதிவாதியைப் பார்க்க",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "பிரதிவாதியை பார்க்கும்",
+      "correct": "பிரதிவாதியைப் பார்க்கும்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "பிரதிவாதியை பார்க்கவில்லை",
+      "correct": "பிரதிவாதியைப் பார்க்கவில்லை",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "வாதியை பார்த்து",
+      "correct": "வாதியைப் பார்த்து",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "வாதியை பார்த்துவிட்டு",
+      "correct": "வாதியைப் பார்த்துவிட்டு",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "வாதியை பார்த்துவிட்டார்",
+      "correct": "வாதியைப் பார்த்துவிட்டார்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "வாதியை பார்த்துவிட்டாள்",
+      "correct": "வாதியைப் பார்த்துவிட்டாள்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "வாதியை பார்த்துவிட்டனர்",
+      "correct": "வாதியைப் பார்த்துவிட்டனர்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "வாதியை பார்த்தார்",
+      "correct": "வாதியைப் பார்த்தார்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "வாதியை பார்த்தாள்",
+      "correct": "வாதியைப் பார்த்தாள்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "வாதியை பார்த்தனர்",
+      "correct": "வாதியைப் பார்த்தனர்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "வாதியை பார்த்தான்",
+      "correct": "வாதியைப் பார்த்தான்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "வாதியை பார்த்துக்கொண்டு",
+      "correct": "வாதியைப் பார்த்துக்கொண்டு",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "வாதியை பார்க்க",
+      "correct": "வாதியைப் பார்க்க",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "வாதியை பார்க்கும்",
+      "correct": "வாதியைப் பார்க்கும்",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    },
+    {
+      "wrong": "வாதியை பார்க்கவில்லை",
+      "correct": "வாதியைப் பார்க்கவில்லை",
+      "category": "ஐகார_ஈறு_வல்லினம்_மிகுதல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "இரண்டாம் வேற்றுமை விரி (ை-ஈறு) + ப-முதல் வருமொழி → வல்லின ஒற்று ப் மிகும்; voice-typing drops punarchi at word boundary"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "wrong": "மேலவை நீதிமன்றம்",
+    "correct": "மேலதிகார நீதிமன்றம்",
+    "category": "legal_terminology",
+    "phrase_anchored": true,
+    "confidence": 0.95,
+    "source": "judicial_convention"
+  },
+  {
+    "wrong": "மேலவை நீதிமன்றத்தின்",
+    "correct": "மேலதிகார நீதிமன்றத்தின்",
+    "category": "legal_terminology",
+    "phrase_anchored": true,
+    "confidence": 0.95,
+    "source": "judicial_convention"
+  },
+  {
+    "wrong": "மேலவை நீதிமன்றத்தால்",
+    "correct": "மேலதிகார நீதிமன்றத்தால்",
+    "category": "legal_terminology",
+    "phrase_anchored": true,
+    "confidence": 0.95,
+    "source": "judicial_convention"
+  },
+  {
+    "wrong": "மேலவை நீதிமன்றத்தில்",
+    "correct": "மேலதிகார நீதிமன்றத்தில்",
+    "category": "legal_terminology",
+    "phrase_anchored": true,
+    "confidence": 0.95,
+    "source": "judicial_convention"
+  },
+  {
+    "wrong": "மேலவை நீதிமன்றத்திற்கு",
+    "correct": "மேலதிகார நீதிமன்றத்திற்கு",
+    "category": "legal_terminology",
+    "phrase_anchored": true,
+    "confidence": 0.95,
+    "source": "judicial_convention"
+  },
+  {
+    "wrong": "மேலவை நீதிமன்றங்கள்",
+    "correct": "மேலதிகார நீதிமன்றங்கள்",
+    "category": "legal_terminology",
+    "phrase_anchored": true,
+    "confidence": 0.95,
+    "source": "judicial_convention"
+  },
+  {
+    "wrong": "மேலவை நீதிமன்றங்களின்",
+    "correct": "மேலதிகார நீதிமன்றங்களின்",
+    "category": "legal_terminology",
+    "phrase_anchored": true,
+    "confidence": 0.95,
+    "source": "judicial_convention"
+  },
+  {
+    "wrong": "மேலவை நீதிமன்றங்களில்",
+    "correct": "மேலதிகார நீதிமன்றங்களில்",
+    "category": "legal_terminology",
+    "phrase_anchored": true,
+    "confidence": 0.95,
+    "source": "judicial_convention"
+  },
+  {
+    "wrong": "விளக்கு விசாரணை",
+    "correct": "வழக்கு விசாரணை",
+    "category": "voice_type_mishear",
+    "phrase_anchored": true,
+    "confidence": 0.93,
+    "source": "acoustic_mishear"
+  },
+  {
+    "wrong": "விளக்கு விசாரணையில்",
+    "correct": "வழக்கு விசாரணையில்",
+    "category": "voice_type_mishear",
+    "phrase_anchored": true,
+    "confidence": 0.93,
+    "source": "acoustic_mishear"
+  },
+  {
+    "wrong": "விளக்கு விசாரணையின்",
+    "correct": "வழக்கு விசாரணையின்",
+    "category": "voice_type_mishear",
+    "phrase_anchored": true,
+    "confidence": 0.93,
+    "source": "acoustic_mishear"
+  },
+  {
+    "wrong": "விளக்கு விசாரணையை",
+    "correct": "வழக்கு விசாரணையை",
+    "category": "voice_type_mishear",
+    "phrase_anchored": true,
+    "confidence": 0.93,
+    "source": "acoustic_mishear"
+  },
+  {
+    "wrong": "விளக்கு விசாரணையிலிருந்து",
+    "correct": "வழக்கு விசாரணையிலிருந்து",
+    "category": "voice_type_mishear",
+    "phrase_anchored": true,
+    "confidence": 0.93,
+    "source": "acoustic_mishear"
+  },
+  {
+    "wrong": "விளக்கு விசாரணைக்காக",
+    "correct": "வழக்கு விசாரணைக்காக",
+    "category": "voice_type_mishear",
+    "phrase_anchored": true,
+    "confidence": 0.93,
+    "source": "acoustic_mishear"
+  },
+  {
+    "wrong": "கிரிமினல் எம். பி. எண்",
+    "correct": "Crl.M.P. No.",
+    "category": "case_number_citation",
+    "phrase_anchored": true,
+    "confidence": 0.97,
+    "source": "judicial_convention"
+  },
+  {
+    "wrong": "கிரிமினல் எம்.பி. எண்",
+    "correct": "Crl.M.P. No.",
+    "category": "case_number_citation",
+    "phrase_anchored": true,
+    "confidence": 0.97,
+    "source": "judicial_convention"
+  },
+  {
+    "wrong": "கிரிமினல் எம்பி எண்",
+    "correct": "Crl.M.P. No.",
+    "category": "case_number_citation",
+    "phrase_anchored": true,
+    "confidence": 0.97,
+    "source": "judicial_convention"
+  },
+  {
+    "wrong": "கிரிமினல் மிஷலேனியச் பெட்டிஷன்",
+    "correct": "Crl.M.P.",
+    "category": "case_number_citation",
+    "phrase_anchored": true,
+    "confidence": 0.97,
+    "source": "judicial_convention"
+  },
+  {
+    "wrong": "கிரிமினல் மிஷல்லேனியஸ் பிடிஷன்",
+    "correct": "Crl.M.P.",
+    "category": "case_number_citation",
+    "phrase_anchored": true,
+    "confidence": 0.97,
+    "source": "judicial_convention"
+  },
+  {
+    "wrong": "சி.ஆர்.எல். எம்.பி. எண்",
+    "correct": "Crl.M.P. No.",
+    "category": "case_number_citation",
+    "phrase_anchored": true,
+    "confidence": 0.97,
+    "source": "judicial_convention"
+  },
+  {
+    "wrong": "கி.எம்.பி. எண்",
+    "correct": "Crl.M.P. No.",
+    "category": "case_number_citation",
+    "phrase_anchored": true,
+    "confidence": 0.97,
+    "source": "judicial_convention"
+  }
+]

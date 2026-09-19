@@ -1,0 +1,68 @@
+{
+  "rules": [
+    {
+      "wrong": "போக்குக்கு எடுக்கப்பட்டு",
+      "correct": "கோப்புக்கு எடுக்கப்பட்டு",
+      "category": "lexical_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.97,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "போக்கிற்கு எடுக்கப்பட்டு",
+      "correct": "கோப்பிற்கு எடுக்கப்பட்டு",
+      "category": "lexical_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.97,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "போக்குக்கு எடுத்துக்கொள்ளப்பட்டு",
+      "correct": "கோப்புக்கு எடுத்துக்கொள்ளப்பட்டு",
+      "category": "lexical_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.97,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "போக்கிற்கு எடுத்துக்கொள்ளப்பட்டு",
+      "correct": "கோப்பிற்கு எடுத்துக்கொள்ளப்பட்டு",
+      "category": "lexical_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.97,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "போக்குக்கு எடுக்கப்பட்டது",
+      "correct": "கோப்புக்கு எடுக்கப்பட்டது",
+      "category": "lexical_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.97,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "போக்கிற்கு எடுக்கப்பட்டது",
+      "correct": "கோப்பிற்கு எடுக்கப்பட்டது",
+      "category": "lexical_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.97,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "போக்குக்கு எடுக்கப்பட்டுள்ளது",
+      "correct": "கோப்புக்கு எடுக்கப்பட்டுள்ளது",
+      "category": "lexical_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.97,
+      "source": "session_20260918"
+    },
+    {
+      "wrong": "போக்கிற்கு எடுக்கப்பட்டுள்ளது",
+      "correct": "கோப்பிற்கு எடுக்கப்பட்டுள்ளது",
+      "category": "lexical_mishear",
+      "phrase_anchored": true,
+      "confidence": 0.97,
+      "source": "session_20260918"
+    }
+  ]
+}

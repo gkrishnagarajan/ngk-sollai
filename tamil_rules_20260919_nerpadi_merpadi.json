@@ -1,0 +1,28 @@
+{
+  "rules": [
+    {
+      "wrong": "நேர்ப்படி",
+      "correct": "மேற்படி",
+      "category": "ஒலி_பிழை_சட்ட_சொல்",
+      "confidence": 0.97,
+      "source": "grammar_rule",
+      "notes": "ந/ம initial acoustic mishear; மேற்படி = the aforesaid (legal)"
+    },
+    {
+      "wrong": "நேர்படி",
+      "correct": "மேற்படி",
+      "category": "ஒலி_பிழை_சட்ட_சொல்",
+      "confidence": 0.96,
+      "source": "grammar_rule",
+      "notes": "variant: pulli dropped on ர்"
+    },
+    {
+      "wrong": "நேர்பட்டி",
+      "correct": "மேற்படி",
+      "category": "ஒலி_பிழை_சட்ட_சொல்",
+      "confidence": 0.95,
+      "source": "grammar_rule",
+      "notes": "variant: ட்டி ending hallucination"
+    }
+  ]
+}
