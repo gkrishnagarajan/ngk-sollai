@@ -37,3 +37,4 @@ test_data/
 
 # Pycache
 *.egg-info/
+*.bak_*
