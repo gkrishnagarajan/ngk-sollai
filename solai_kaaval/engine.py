@@ -79,8 +79,9 @@ class Detector:
             if self.direction == "before":
                 self.pattern = r"(" + span + r")\s+(?:" + anchor_alt + r")"
             else:
-                self.pattern = r"(?:" + anchor_alt + \
+                self.pattern = r"(?<![\u0B80-\u0BFF])(?:" + anchor_alt + \
                                r")\s*[:\-]?\s*(" + span + r")"
+            self.regex = re.compile(self.pattern, re.UNICODE)
             self.regex = re.compile(self.pattern, re.UNICODE)
         elif self.method == "list":
             lst = spec.get("list_file")

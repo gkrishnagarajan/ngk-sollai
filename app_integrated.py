@@ -33,10 +33,10 @@ app.secret_key = 'tamil-neethi-nayam-secret-2026'
 import user_manager as um
 # ── Solai Kaaval anonymiser ───────────────────────────────────────────────────
 import sys as _sys
-_sys.path.insert(0, os.path.expanduser("~/solai_kaaval"))
+_sys.path.insert(0, "/opt/ngk-sollai/solai_kaaval")
 from engine import Anonymiser as _SolaiAnonymiser
-_solai = _SolaiAnonymiser(os.path.expanduser("~/solai_kaaval"))
-_SOLAI_TOGGLES = {"aadhaar": ["AADHAAR"], "case": ["CASE", "FIR"], "dates": ["DATE", "DOB"]}
+_solai = _SolaiAnonymiser("/opt/ngk-sollai/solai_kaaval")
+_SOLAI_TOGGLES = {"aadhaar": ["AADHAAR"], "case": ["CASE", "FIR"], "dates": ["DATE", "DOB"], "person": ["PERSON"], "place": ["PLACE", "STATION"]}
 print("\u2705 Solai Kaaval: %d detectors loaded" % len(_solai.detectors))
 # ─────────────────────────────────────────────────────────────────────────────
 
@@ -1661,6 +1661,8 @@ function _skDis(){
   if(!document.getElementById('sk-t-aadhaar').checked) d.push('aadhaar');
   if(!document.getElementById('sk-t-case').checked)    d.push('case');
   if(!document.getElementById('sk-t-dates').checked)   d.push('dates');
+  if(!document.getElementById('sk-t-person').checked) d.push('person');
+  if(!document.getElementById('sk-t-place').checked)  d.push('place');
   return d;
 }
 function _skLanes(){
@@ -1726,7 +1728,19 @@ function skCollectMap(){
   return m;
 }
 
-function skCopy(){ navigator.clipboard.writeText(document.getElementById('sk-anon').value); }
+function skCopy(){
+  var t=document.getElementById('sk-anon');
+  var v=t.value;
+  if(!v) return;
+  navigator.clipboard.writeText(v).then(function(){
+    var b=document.querySelector('[onclick="skCopy()"]');
+    if(b){var o=b.textContent;b.textContent='Copied ✓';setTimeout(function(){b.textContent=o;},1500);}
+  }).catch(function(){
+    t.select();
+    t.setSelectionRange(0,99999);
+    document.execCommand('copy');
+  });
+}
 
 function skDownloadKey(){
   var blob=new Blob([JSON.stringify(skCollectMap(),null,2)],{type:'application/json'});
@@ -1777,32 +1791,31 @@ fetch('/api/stats').then(r=>r.json()).then(data=>{
 
   <!-- Phase 1 -->
   <div style="background:#fff;border:1px solid #d9d2c4;border-radius:10px;padding:16px;margin-bottom:16px">
-    <h3 style="margin:0 0 10px;font-size:14px;color:#3a5a40">1. Original document</h3>
-    <textarea id="sk-src" placeholder="Paste the Tamil / English document text here..."
-      style="width:100%;min-height:140px;padding:10px;border:1px solid #d9d2c4;border-radius:8px;
-             font-family:inherit;font-size:14px;resize:vertical"></textarea>
-    <div style="display:flex;flex-wrap:wrap;gap:16px;align-items:center;margin:10px 0;font-size:13px;color:#6b655a">
-      <span>Redact:</span>
-      <label><input type="checkbox" id="sk-t-aadhaar" checked> Aadhaar</label>
-      <label><input type="checkbox" id="sk-t-case" checked> Case / FIR numbers</label>
-      <label><input type="checkbox" id="sk-t-dates" checked> Dates</label>
-      <span style="margin-left:10px">Language:</span>
-      <label><input type="checkbox" id="sk-l-en" checked> English</label>
-      <label><input type="checkbox" id="sk-l-ta" checked> Tamil</label>
-      <label style="margin-left:10px"><input type="checkbox" id="sk-ascii"> ASCII tokens [[ ]]</label>
-    </div>
-    <div style="display:flex;gap:8px">
-      <button onclick="skAnon()"
-        style="background:#7a5c2e;color:#fff;border:none;border-radius:8px;
-               padding:9px 18px;cursor:pointer;font-size:14px">
-        Anonymise &#8594;
-      </button>
-      <button onclick="skClear()"
-        style="background:#eee;color:#22201b;border:1px solid #d9d2c4;border-radius:8px;
-               padding:9px 18px;cursor:pointer;font-size:14px">
-        Clear
-      </button>
-    </div>
+   <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:6px">
+     <h3 style="margin:0;font-size:14px;color:#3a5a40">1. Original document</h3>
+     <button onclick="navigator.clipboard.writeText(document.getElementById('sk-src').value).then(function(){var b=event.target;var o=b.textContent;b.textContent='Copied';setTimeout(function(){b.textContent=o;},1500);})" style="background:#fff;color:#22201b;border:1px solid #c8bfb0;border-radius:6px;padding:5px 14px;cursor:pointer;font-size:12px;font-weight:600">Copy input</button>
+   </div>
+   <textarea id="sk-src" placeholder="Paste the Tamil / English document text here..." style="width:100%;min-height:140px;padding:10px;border:1px solid #d9d2c4;border-radius:8px;font-family:inherit;font-size:14px;resize:vertical"></textarea>
+   <div style="margin:14px 0 0;padding:14px 16px;background:#f0ece2;border-radius:8px;border:1px solid #d9d2c4">
+     <div style="font-size:11px;font-weight:700;letter-spacing:.8px;text-transform:uppercase;color:#7a5c2e;margin-bottom:10px">Redact Categories</div>
+     <div style="display:flex;flex-wrap:wrap;gap:8px">
+       <label style="display:flex;align-items:center;gap:7px;font-size:13px;font-weight:600;color:#22201b;cursor:pointer;background:#fff;border:1px solid #c8bfb0;border-radius:6px;padding:7px 14px"><input type="checkbox" id="sk-t-aadhaar" checked style="width:15px;height:15px;accent-color:#7a5c2e"> Aadhaar / Gov ID</label>
+       <label style="display:flex;align-items:center;gap:7px;font-size:13px;font-weight:600;color:#22201b;cursor:pointer;background:#fff;border:1px solid #c8bfb0;border-radius:6px;padding:7px 14px"><input type="checkbox" id="sk-t-case" checked style="width:15px;height:15px;accent-color:#7a5c2e"> Case / FIR Numbers</label>
+       <label style="display:flex;align-items:center;gap:7px;font-size:13px;font-weight:600;color:#22201b;cursor:pointer;background:#fff;border:1px solid #c8bfb0;border-radius:6px;padding:7px 14px"><input type="checkbox" id="sk-t-dates" checked style="width:15px;height:15px;accent-color:#7a5c2e"> Dates</label>
+       <label style="display:flex;align-items:center;gap:7px;font-size:13px;font-weight:600;color:#22201b;cursor:pointer;background:#fff;border:1px solid #c8bfb0;border-radius:6px;padding:7px 14px"><input type="checkbox" id="sk-t-person" checked style="width:15px;height:15px;accent-color:#7a5c2e"> Person Names</label>
+       <label style="display:flex;align-items:center;gap:7px;font-size:13px;font-weight:600;color:#22201b;cursor:pointer;background:#fff;border:1px solid #c8bfb0;border-radius:6px;padding:7px 14px"><input type="checkbox" id="sk-t-place" checked style="width:15px;height:15px;accent-color:#7a5c2e"> Places</label>
+     </div>
+   </div>
+   <div style="display:flex;align-items:center;flex-wrap:wrap;gap:8px;margin:12px 0 0">
+     <span style="font-size:11px;font-weight:700;letter-spacing:.8px;text-transform:uppercase;color:#1a1e3c">Language:</span>
+     <label style="display:flex;align-items:center;gap:7px;font-size:13px;font-weight:600;color:#22201b;cursor:pointer;background:#f0ece2;border:1px solid #c8bfb0;border-radius:6px;padding:7px 14px"><input type="checkbox" id="sk-l-en" checked style="width:15px;height:15px;accent-color:#1a1e3c"> English</label>
+     <label style="display:flex;align-items:center;gap:7px;font-size:13px;font-weight:600;color:#22201b;cursor:pointer;background:#f0ece2;border:1px solid #c8bfb0;border-radius:6px;padding:7px 14px"><input type="checkbox" id="sk-l-ta" checked style="width:15px;height:15px;accent-color:#1a1e3c"> Tamil</label>
+     <label style="display:flex;align-items:center;gap:7px;font-size:12px;color:#6b655a;cursor:pointer;background:#f0ece2;border:1px solid #c8bfb0;border-radius:6px;padding:7px 14px"><input type="checkbox" id="sk-ascii" style="width:14px;height:14px"> ASCII tokens [[ ]]</label>
+     <div style="margin-left:auto;display:flex;gap:8px">
+       <button onclick="skAnon()" style="background:#1a1e3c;color:#fff;border:none;border-radius:8px;padding:10px 24px;cursor:pointer;font-size:14px;font-weight:700;letter-spacing:.4px">Anonymise &rarr;</button>
+       <button onclick="skClear()" style="background:#fff;color:#22201b;border:1px solid #c8bfb0;border-radius:8px;padding:10px 18px;cursor:pointer;font-size:14px">Clear</button>
+     </div>
+   </div>
   </div>
 
   <!-- Phase 2 + 3 grid -->
@@ -2673,14 +2686,14 @@ def admin_reset_password():
 @app.route('/solai-kaaval')
 def solai_kaaval_page():
     from flask import session, redirect, url_for
-    if not session.get('user'):
+    if not session.get('username'):
         return redirect(url_for('login'))
     return redirect('/#solai')   # served inline via the SPA panel below
 
 @app.route('/api/solai/anonymise', methods=['POST'])
 def solai_anonymise():
     from flask import session, jsonify, request
-    if not session.get('user'):
+    if not session.get('username'):
         return jsonify({'error': 'not authenticated'}), 401
     data = request.get_json(force=True) or {}
     text     = data.get('text', '')
@@ -2703,7 +2716,7 @@ def solai_anonymise():
 @app.route('/api/solai/deanonymise', methods=['POST'])
 def solai_deanonymise():
     from flask import session, jsonify, request
-    if not session.get('user'):
+    if not session.get('username'):
         return jsonify({'error': 'not authenticated'}), 401
     data = request.get_json(force=True) or {}
     restored = _solai.deanonymise(data.get('text', ''), data.get('mapping', {}))
